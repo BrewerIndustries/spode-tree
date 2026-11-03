@@ -3,7 +3,9 @@
 //
 //   node scripts/build-catalog.mjs <raw.json>
 //
-// raw.json: [{ name, collection, type, sku?, image_url?, source_url?, status?, notes? }]
+// raw.json: [{ name, collection, type, sku?, image_url?, source_url?, status?, notes?,
+//             is_set?, components?: [{ name, qty }] }]   (several files are concatenated)
+// A set's components name other entries; they are resolved to ids here.
 // Ids are stable slugs of collection + name, so re-running keeps the owner's
 // checkmarks attached. Images are downloaded once (skipped if the file exists),
 // shrunk to 640px JPEG with macOS `sips`, and committed with the app — the app
@@ -12,7 +14,7 @@ import { readFileSync, writeFileSync, existsSync, mkdirSync, unlinkSync } from "
 import { execFileSync } from "child_process";
 import { join } from "path";
 
-const raw = JSON.parse(readFileSync(process.argv[2], "utf8"));
+const raw = process.argv.slice(2).flatMap((f) => JSON.parse(readFileSync(f, "utf8")));
 const OUT_DIR = "public/items";
 mkdirSync(OUT_DIR, { recursive: true });
 
@@ -36,8 +38,25 @@ for (const r of raw) {
     source_url: r.source_url || null,
     status: ["current", "discontinued"].includes(r.status) ? r.status : "unknown",
     notes: r.notes || null,
+    ...(r.is_set ? { is_set: true, components: r.components ?? [] } : {}),
   });
 }
+
+// Resolve component names → ids, preferring a piece in the set's own sub-line.
+const unresolved = [];
+for (const e of out) {
+  if (!e.is_set) continue;
+  e.components = e.components.flatMap((c) => {
+    const hits = out.filter((o) => !o.is_set && o.name.toLowerCase() === String(c.name).trim().toLowerCase());
+    const hit = hits.find((h) => h.collection === e.collection) ?? hits[0];
+    if (!hit) {
+      unresolved.push(`${e.name} → ${c.name}`);
+      return [];
+    }
+    return [{ id: hit.id, qty: Math.max(1, Math.floor(c.qty || 1)) }];
+  });
+}
+if (unresolved.length) console.warn(`unresolved components:\n  ${unresolved.join("\n  ")}`);
 
 let ok = 0, failed = 0;
 const queue = [...out];

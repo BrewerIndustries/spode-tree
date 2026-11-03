@@ -10,10 +10,40 @@ export type Item = {
   status: "current" | "discontinued" | "unknown";
   notes: string;
   custom: boolean;
+  isSet: boolean;
+  components: Component[]; // what a set contains (empty for single pieces)
   owned: boolean;
   qty: number;
   note: string; // the owner's own note (condition, where bought…)
 };
+
+export type Component = { id: string; qty: number };
+
+// Item plus what ownership of *sets* implies for it: owning a 4-piece place
+// setting means owning its dinner plate, without ticking the plate itself.
+export type Derived = Item & {
+  viaQty: number;     // pieces held through owned sets
+  inSets: string[];   // ids of sets that contain this piece
+  have: boolean;      // owned directly or through a set
+  total: number;      // qty + viaQty
+};
+
+export function derive(items: Item[]): Derived[] {
+  const via = new Map<string, number>();
+  const inSets = new Map<string, string[]>();
+  for (const s of items) {
+    for (const c of s.components) {
+      inSets.set(c.id, [...(inSets.get(c.id) ?? []), s.id]);
+      if (s.owned) via.set(c.id, (via.get(c.id) ?? 0) + s.qty * c.qty);
+    }
+  }
+  return items.map((i) => {
+    const viaQty = via.get(i.id) ?? 0;
+    return { ...i, viaQty, inSets: inSets.get(i.id) ?? [], have: i.owned || viaQty > 0, total: i.qty + viaQty };
+  });
+}
+
+export const SET_TYPES = ["Place Setting", "Dinnerware Set", "Set"];
 
 export type CatalogEntry = {
   id: string;
@@ -25,6 +55,8 @@ export type CatalogEntry = {
   source_url: string | null;
   status: Item["status"];
   notes: string | null;
+  is_set?: boolean;
+  components?: Component[];
 };
 
 // Display order for the sub-line chips; anything unlisted sorts after, A→Z.
