@@ -1,0 +1,17 @@
+[Unit]
+Description=Spode Tree (Next.js)
+After=network.target
+
+[Service]
+Type=simple
+User=dan
+WorkingDirectory=/opt/spode-tree
+Environment=NODE_ENV=production
+# Optional settings (JARVIS_ENV=dev on dev only, SPODE_DB_PATH) live in .env.
+EnvironmentFile=-/opt/spode-tree/.env
+ExecStart=/opt/spode-tree/node_modules/.bin/next start -p 4860
+Restart=on-failure
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target
