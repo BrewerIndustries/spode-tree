@@ -55,7 +55,6 @@ function init(): Database.Database {
   `);
   const cols = db.prepare("PRAGMA table_info(custom_items)").all() as { name: string }[];
   if (!cols.some((c) => c.name === "is_set")) db.exec("ALTER TABLE custom_items ADD COLUMN is_set INTEGER NOT NULL DEFAULT 0");
-  seedSets(db);
   return db;
 }
 
@@ -73,8 +72,15 @@ function seedSets(db: Database.Database) {
   })();
 }
 
+// Per module load (not per cached handle) so a rebuilt catalog seeds its new sets.
+let setsSeeded = false;
+
 export function getDb(): Database.Database {
   if (!globalForDb._spodeDb) globalForDb._spodeDb = init();
+  if (!setsSeeded) {
+    seedSets(globalForDb._spodeDb);
+    setsSeeded = true;
+  }
   return globalForDb._spodeDb;
 }
 
