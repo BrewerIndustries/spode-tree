@@ -61,7 +61,8 @@ export type CatalogEntry = {
 
 // Display order for the sub-line chips; anything unlisted sorts after, A→Z.
 export const COLLECTION_ORDER = [
-  "Classic", "Gold", "Tartan", "Peppermint", "Red Trim", "Holly", "Polka Dot", "Black & White", "Wreath",
+  "Classic", "Green Trim", "Gold", "Tartan", "Peppermint", "Red Trim", "Red Wine Trim", "Magenta Band",
+  "Garland", "Grove", "Holly", "Polka Dot", "Black & White", "Wreath",
   "Yuletide", "Village", "Sculpted/Figural", "Melamine", "250th Anniversary", "Annual", "Ornaments",
 ];
 
@@ -71,6 +72,13 @@ const PALETTE: Record<string, string> = {
   Tartan: "#a8312f",
   Peppermint: "#d1477a",
   "Red Trim": "#9e2a2b",
+  "Green Trim": "#1f6b3a",
+  "Red Wine Trim": "#6d1f2c",
+  "Magenta Band": "#a3246e",
+  Garland: "#5a8a3a",
+  Grove: "#2e5e4e",
+  Disney: "#2f5fb3",
+  Brown: "#7a4a24",
   Holly: "#3d7a2a",
   "Polka Dot": "#c0392b",
   "Black & White": "#3a3a3a",

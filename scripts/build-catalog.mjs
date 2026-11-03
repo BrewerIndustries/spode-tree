@@ -9,8 +9,9 @@
 // Ids are stable slugs of collection + name, so re-running keeps the owner's
 // checkmarks attached. Images are downloaded once (skipped if the file exists),
 // shrunk to 640px JPEG with macOS `sips`, and committed with the app — the app
-// never hotlinks a retailer.
-import { readFileSync, writeFileSync, existsSync, mkdirSync, unlinkSync } from "fs";
+// never hotlinks a retailer. An image_url that isn't http(s) is a Replacements image
+// path, read from $LOCAL_IMAGES (the unpacked in-browser photo bundle, see README).
+import { readFileSync, readdirSync, writeFileSync, existsSync, mkdirSync, unlinkSync } from "fs";
 import { execFileSync } from "child_process";
 import { join } from "path";
 
@@ -65,15 +66,21 @@ async function worker() {
     const file = join(OUT_DIR, `${e.id}.jpg`);
     if (!existsSync(file) && e.image_url) {
       try {
-        const res = await fetch(e.image_url, {
-          headers: { "User-Agent": "Mozilla/5.0 (Macintosh) AppleWebKit/537.36 Chrome/130 Safari/537.36" },
-          signal: AbortSignal.timeout(20000),
-        });
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const tmp = `${file}.download`;
-        writeFileSync(tmp, Buffer.from(await res.arrayBuffer()));
-        execFileSync("sips", ["-s", "format", "jpeg", "-s", "formatOptions", "78", "-Z", "640", tmp, "--out", file], { stdio: "ignore" });
-        unlinkSync(tmp);
+        if (!/^https?:/.test(e.image_url)) {
+          const src = join(process.env.LOCAL_IMAGES ?? "", e.image_url.replace(/[^A-Za-z0-9._-]/g, "_"));
+          if (!process.env.LOCAL_IMAGES || !existsSync(src)) throw new Error("no local image (set LOCAL_IMAGES)");
+          execFileSync("sips", ["-s", "format", "jpeg", "-s", "formatOptions", "78", "-Z", "640", src, "--out", file], { stdio: "ignore" });
+        } else {
+          const res = await fetch(e.image_url, {
+            headers: { "User-Agent": "Mozilla/5.0 (Macintosh) AppleWebKit/537.36 Chrome/130 Safari/537.36" },
+            signal: AbortSignal.timeout(20000),
+          });
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          const tmp = `${file}.download`;
+          writeFileSync(tmp, Buffer.from(await res.arrayBuffer()));
+          execFileSync("sips", ["-s", "format", "jpeg", "-s", "formatOptions", "78", "-Z", "640", tmp, "--out", file], { stdio: "ignore" });
+          unlinkSync(tmp);
+        }
       } catch (err) {
         failed++;
         console.warn(`✗ ${e.id}: ${err.message}`);
@@ -86,6 +93,10 @@ async function worker() {
   }
 }
 await Promise.all(Array.from({ length: 6 }, worker));
+
+// Photos of entries that are no longer in the catalog.
+const keep = new Set(out.map((e) => `${e.id}.jpg`));
+for (const f of readdirSync(OUT_DIR)) if (f.endsWith(".jpg") && !keep.has(f)) unlinkSync(join(OUT_DIR, f));
 
 const catalog = out.map(({ image_url, ...rest }) => rest); // eslint-disable-line no-unused-vars
 writeFileSync("src/data/catalog.json", JSON.stringify(catalog, null, 1) + "\n");

@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { collectionColor, derive, sortCollections, type Component, type Derived, type Item } from "@/lib/types";
 import ItemSheet from "./ItemSheet";
 import AddPiece from "./AddPiece";
@@ -9,6 +9,7 @@ type Own = "all" | "have" | "need";
 type Prefs = { own: Own; collections: string[]; type: string };
 
 const PREFS_KEY = "spode-tree:filters";
+const PAGE = 120; // cards rendered per scroll step — the full catalog is ~2,000
 
 function loadPrefs(): Prefs | null {
   try {
@@ -22,6 +23,7 @@ function loadPrefs(): Prefs | null {
 export default function Inventory({ initial }: { initial: Item[] }) {
   const [items, setItems] = useState(initial);
   const derived = useMemo(() => derive(items), [items]);
+
   const [own, setOwn] = useState<Own>("all");
   const [collections, setCollections] = useState<string[]>([]);
   const [type, setType] = useState("");
@@ -29,6 +31,8 @@ export default function Inventory({ initial }: { initial: Item[] }) {
   const [openId, setOpenId] = useState<string | null>(null);
   const [adding, setAdding] = useState(false);
   const [error, setError] = useState("");
+  const [shown, setShown] = useState(PAGE);
+  const sentinel = useRef<HTMLDivElement>(null);
 
   // Filters are a per-device convenience; ownership itself lives on the server.
   useEffect(() => {
@@ -43,6 +47,21 @@ export default function Inventory({ initial }: { initial: Item[] }) {
       localStorage.setItem(PREFS_KEY, JSON.stringify({ own, collections, type }));
     } catch {}
   }, [own, collections, type]);
+
+  // Start from the top of the list whenever the filters change.
+  const filterKey = `${own}|${collections.join(",")}|${type}|${q}`;
+  const [lastKey, setLastKey] = useState(filterKey);
+  if (lastKey !== filterKey) {
+    setLastKey(filterKey);
+    setShown(PAGE);
+  }
+  useEffect(() => {
+    const el = sentinel.current;
+    if (!el) return;
+    const io = new IntersectionObserver((e) => e[0].isIntersecting && setShown((n) => n + PAGE), { rootMargin: "800px" });
+    io.observe(el); // re-observed after each step: a fresh observer reports at once if still in range
+    return () => io.disconnect();
+  }, [shown]);
 
   const allCollections = useMemo(() => sortCollections([...new Set(items.map((i) => i.collection))]), [items]);
   const allTypes = useMemo(() => [...new Set(items.map((i) => i.type))].sort(), [items]);
@@ -245,10 +264,16 @@ export default function Inventory({ initial }: { initial: Item[] }) {
           </p>
         ) : (
           <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
-            {visible.map((i) => (
+            {visible.slice(0, shown).map((i) => (
               <Piece key={i.id} item={i} onToggle={() => patch(i.id, { owned: !i.owned })} onOpen={() => setOpenId(i.id)} />
             ))}
           </div>
+        )}
+        <div ref={sentinel} aria-hidden className="h-px" />
+        {shown < visible.length && (
+          <p className="py-6 text-center text-sm text-[var(--muted)]">
+            Showing {shown} of {visible.length} — scroll for more
+          </p>
         )}
       </main>
 
