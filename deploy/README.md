@@ -21,6 +21,13 @@ Each environment has its own SQLite DB at `data/spode.db (+ data/images/ for pho
    request that reaches the box any other way (for example from the LAN) gets a 403.
    The blocks are in [nginx.conf](nginx.conf).
 
+## Native module (better-sqlite3)
+
+The server's npm 12 blocks install scripts, so `npm install` does not compile
+better-sqlite3. Both update scripts check that it loads and run `node-gyp rebuild`
+in `node_modules/better-sqlite3` if not. Do the same after a Node major upgrade,
+then restart the service.
+
 ## Workflow
 
 ```bash
@@ -41,6 +48,7 @@ gh repo deploy-key add ~/.ssh/spode-tree-deploy.pub -R BrewerIndustries/spode-tr
 sudo mkdir -p /opt/spode-tree && sudo chown dan:dan /opt/spode-tree
 git clone -b main github-spode-tree:BrewerIndustries/spode-tree.git /opt/spode-tree
 cd /opt/spode-tree && npm install && npm run build      # as dan, never sudo
+(cd node_modules/better-sqlite3 && npx --yes node-gyp rebuild --release)   # npm 12 skips this
 sudo cp deploy/spode-tree.service /etc/systemd/system/ && sudo systemctl daemon-reload
 sudo systemctl enable --now spode-tree
 # nginx: append the prod block from deploy/nginx.conf → sudo nginx -t && sudo systemctl reload nginx

@@ -22,6 +22,8 @@ cabinet and see what's still to find.
 | PROD | https://spode.dabrewer.dev       | 4860 | `main` |
 | DEV  | https://spode.dev.dabrewer.dev   | 4870 | `dev`  |
 
+Both live since 2026-11-18 (prod's DB starts empty; dev's is separate). Deploy notes: [deploy/README.md](deploy/README.md).
+
 ## Stack
 
 Next.js 16 (App Router) · React 19 · Tailwind v4 · SQLite via better-sqlite3.

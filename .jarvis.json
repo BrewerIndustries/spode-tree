@@ -4,7 +4,7 @@
   "category": "standalone",
   "description": "Collection inventory for the Spode Christmas Tree china line: every piece with a photo, a checkbox for what's in the cabinet (plus quantity and notes), and filters for have/need, sub-line (Classic, Gold, Tartan…) and item type. Pieces missing from the catalog can be added with a photo. Tailnet-only.",
   "tech": ["Next.js 16", "React 19", "TypeScript", "Tailwind CSS v4", "SQLite (better-sqlite3)"],
-  "status": { "prod": "in_progress", "dev": "live" },
+  "status": { "prod": "live", "dev": "live" },
   "deploy": {
     "prod": { "port": 4860, "https": true, "url": "https://spode.dabrewer.dev" },
     "dev":  { "port": 4870, "https": true, "url": "https://spode.dev.dabrewer.dev" }
