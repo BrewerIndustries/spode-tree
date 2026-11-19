@@ -52,6 +52,10 @@ export default function AddPiece({ collections, types, onClose, onAdded }: Props
         </label>
         <input className="field" name="imageUrl" type="url" placeholder="…or paste an image URL" />
         <input className="field" name="notes" placeholder="Notes (optional)" />
+        <label className="flex items-center gap-2 text-sm font-semibold">
+          <input type="checkbox" name="isSet" className="h-4 w-4 accent-[var(--good)]" />
+          This is a set (place setting, boxed set…) — pick its pieces after adding
+        </label>
         {error && <p className="text-sm text-[var(--danger)]">{error}</p>}
         <div className="flex justify-end gap-2 pt-1">
           <button type="button" className="btn" onClick={onClose}>

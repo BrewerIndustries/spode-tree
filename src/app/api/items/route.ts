@@ -33,6 +33,6 @@ export async function POST(req: NextRequest) {
   } catch (e) {
     return bad((e as Error).message);
   }
-  const id = addCustom({ name, collection, type, notes: str("notes").slice(0, 500), image });
+  const id = addCustom({ name, collection, type, notes: str("notes").slice(0, 500), image, isSet: form.get("isSet") === "on" });
   return json({ item: listItems().find((i) => i.id === id) }, 201);
 }

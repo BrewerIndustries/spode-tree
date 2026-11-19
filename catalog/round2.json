@@ -1,0 +1,2897 @@
+[
+ {
+  "name": "Christmas Tree Gold Salad Plate",
+  "collection": "Gold",
+  "type": "Salad/Dessert Plate",
+  "sku": null,
+  "image_url": null,
+  "source_url": null,
+  "status": "unknown",
+  "notes": "known from Gold 4 Piece Place Setting contents (spode.com 1557093); no single listing found"
+ },
+ {
+  "name": "Christmas Tree 2022 Annual Spoon",
+  "collection": "Annual",
+  "type": "Flatware",
+  "sku": null,
+  "image_url": null,
+  "source_url": null,
+  "status": "unknown",
+  "notes": "known from 2022 Annual 4 Piece Mug and Spoon Set contents; no single listing found"
+ },
+ {
+  "name": "Christmas Tree Peppermint Chip & Dip Platter",
+  "collection": "Peppermint",
+  "type": "Platter",
+  "sku": null,
+  "image_url": null,
+  "source_url": null,
+  "status": "unknown",
+  "notes": "known only as part of Peppermint chip & dip set (Poshmark listing)"
+ },
+ {
+  "name": "Christmas Tree Peppermint Dip Bowl",
+  "collection": "Peppermint",
+  "type": "Serving Bowl",
+  "sku": null,
+  "image_url": null,
+  "source_url": null,
+  "status": "unknown",
+  "notes": "known only as part of Peppermint chip & dip set (Poshmark listing)"
+ },
+ {
+  "name": "Christmas Tree Covered Butter Dish",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/02/6ae86d939d7e0821be0fa9b7/l_6ae86d939d7e0821be0fa9b8.jpg",
+  "source_url": "https://poshmark.com/listing/Vintage-1995-Spode-Christmas-Tree-Covered-Butter-Dish-14-lb-Size-English-Made-6ae86d939d7e0821be0fa9b7",
+  "status": "discontinued",
+  "notes": "vintage resale listing; status inferred; also part of the US Hostess Set (butter dish + salt & pepper); listing title: \"Vintage 1995 Spode Christmas Tree Covered Butter Dish - 1/4 lb Size English Made\""
+ },
+ {
+  "name": "Christmas Tree 10 Inch Salad Bowl",
+  "collection": "Classic",
+  "type": "Serving Bowl",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Salad-Bowl-Server-Set-Lead-Free-Porcelain-Steel-Classic-Christmas-Tree-Design-10-Round-Bowl-9-25-Salad-Servers-Festive-Serveware_17986c62-9c79-457a-9d14-54b7cfe05082.4b8d8177d998287f4d22cfa5091b4656.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Salad-Bowl-Server-Set-Lead-Free-Porcelain-Steel-Classic-Christmas-Tree-Design-10-Round-Bowl-9-25-Salad-Servers-Festive-Serveware/21107770146",
+  "status": "unknown",
+  "notes": "image is the bowl + servers set listing; listing title: \"Spode Christmas Tree Salad Bowl & Server Set - Lead-Free Porcelain, Steel - Classic Christmas Tree Design 10\" Round Bowl\""
+ },
+ {
+  "name": "Christmas Tree Tidbit Plate",
+  "collection": "Classic",
+  "type": "Accent Plate",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/08/6ac802c08d409c8f2d8eac8f/l_6ac802c0046d1fb16a021b06.jpeg",
+  "source_url": "https://poshmark.com/listing/Set-of-4-Spode-Christmas-Tree-Collection-TidbitButter-Square-Plates-3-Inch-6ac802c08d409c8f2d8eac8f",
+  "status": "unknown",
+  "notes": "3 inch square; vintage resale listing; status inferred; listing title: \"Set of 4 Spode Christmas Tree Collection Tidbit/Butter Square Plates, 3 Inch\""
+ },
+ {
+  "name": "Christmas Tree 12 Piece Dinner Set",
+  "collection": "Classic",
+  "type": "Dinnerware Set",
+  "sku": "1827899",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151563865_main_1.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-12-piece-dinner-set-1827899",
+  "status": "current",
+  "notes": "service for 4: 10.5\" dinner, 8\" salad, 9 oz mug; same contents as discontinued 1317161",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Dinner Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Salad Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Mug",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 12-Piece Set (1317161)",
+  "collection": "Classic",
+  "type": "Dinnerware Set",
+  "sku": "1317161",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151317161_main.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-12-piece-set",
+  "status": "discontinued",
+  "notes": "older SKU; 10.5\" dinner, 8\" salad, 9 oz mug",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Dinner Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Salad Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Mug",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 12 Piece Dinner Set (UK-made)",
+  "collection": "Classic",
+  "type": "Dinnerware Set",
+  "sku": "XT8808M",
+  "image_url": "https://www.spode.co.uk/media/catalog/product/7/4/749151824706_main.jpg",
+  "source_url": "https://www.spode.co.uk/christmas-tree-12-piece-dinner-set",
+  "status": "current",
+  "notes": "UK earthenware; specs: 27.5cm plate, 16.5cm plate, 16cm bowl (contents from dimensions, 4 of each assumed); also sold on spode.com as SKU 1824706",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Dinner Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Bread & Butter Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Cereal Bowl",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 12 Piece Dinner Set (Exclusive, stoneware)",
+  "collection": "Classic",
+  "type": "Dinnerware Set",
+  "sku": "XT8176-XM",
+  "image_url": "https://www.spode.co.uk/media/catalog/product/7/4/749151592971_stack.jpg",
+  "source_url": "https://www.spode.co.uk/spode-christmas-tree-12-piece-set-exclusive-2",
+  "status": "discontinued",
+  "notes": "UK exclusive, made in China stoneware; specs 27cm plate, 15.2cm plate, 15.2cm bowl (4 of each assumed)",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Dinner Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Side Plate 6 inch",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Cereal Bowl",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 16 Piece Set (Mugs)",
+  "collection": "Classic",
+  "type": "Dinnerware Set",
+  "sku": "1849532",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151849532_main.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-16-piece-set-1849532",
+  "status": "current",
+  "notes": "four each dinner plates, side plates, cereal bowls, coffee mugs",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Dinner Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Side Plate 6 inch",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Cereal Bowl",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Mug",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 16 Piece Set (Pasta Bowls)",
+  "collection": "Classic",
+  "type": "Dinnerware Set",
+  "sku": "1849150",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151849150_main.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-16-piece-set-1849150",
+  "status": "discontinued",
+  "notes": "dinner, salad, cereal, 9\" pasta bowls (4 each assumed from 16 pieces)",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Dinner Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Salad Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Cereal Bowl",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Pasta Bowl",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 16 Piece Glassware Set",
+  "collection": "Classic",
+  "type": "Dinnerware Set",
+  "sku": "1849143",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151849143_main.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-16-piece-glassware-set",
+  "status": "discontinued",
+  "notes": "dinner, salad, cereal bowls + 4 stemless wine glasses",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Dinner Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Salad Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Cereal Bowl",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Stemless Wine Glass",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 28 Piece Set",
+  "collection": "Classic",
+  "type": "Dinnerware Set",
+  "sku": "1417144",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151417144_main.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-28-piece-set",
+  "status": "current",
+  "notes": "service for 8 + hostess set (covered butter dish, salt & pepper); 5.5\" cereal bowl",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Dinner Plate",
+    "qty": 8
+   },
+   {
+    "name": "Christmas Tree Salad Plate",
+    "qty": 8
+   },
+   {
+    "name": "Christmas Tree Cereal Bowl",
+    "qty": 8
+   },
+   {
+    "name": "Christmas Tree Covered Butter Dish",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Salt & Pepper Set",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 28 Piece Set with Mug",
+  "collection": "Classic",
+  "type": "Dinnerware Set",
+  "sku": "1417632",
+  "image_url": "https://www.spode.com/media/catalog/product/1/4/1417632_1.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-28-piece-set-with-mug",
+  "status": "discontinued",
+  "notes": "service for 8 + hostess set (7.75x3.75\" covered butter dish, 2.75\" salt & pepper)",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Dinner Plate",
+    "qty": 8
+   },
+   {
+    "name": "Christmas Tree Salad Plate",
+    "qty": 8
+   },
+   {
+    "name": "Christmas Tree Mug",
+    "qty": 8
+   },
+   {
+    "name": "Christmas Tree Covered Butter Dish",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Salt & Pepper Set",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 33 Piece Set",
+  "collection": "Classic",
+  "type": "Dinnerware Set",
+  "sku": "1326026",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151326026_main.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-33-piece-set-1326026",
+  "status": "discontinued",
+  "notes": "web exclusive; 8 each 10.5\" dinner, 8\" salad, 5\" bowl, 7\" bowl + large divided dish (5\"/7\" bowls mapped to Fruit Bowl / Individual Bowl by size)",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Dinner Plate",
+    "qty": 8
+   },
+   {
+    "name": "Christmas Tree Salad Plate",
+    "qty": 8
+   },
+   {
+    "name": "Christmas Tree Fruit Bowl",
+    "qty": 8
+   },
+   {
+    "name": "Christmas Tree Individual Bowl",
+    "qty": 8
+   },
+   {
+    "name": "Christmas Tree Large Divided Server",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 36 Piece Set",
+  "collection": "Classic",
+  "type": "Dinnerware Set",
+  "sku": "1428119",
+  "image_url": "https://www.spode.com/media/catalog/product/1/4/1428119_1.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-36-piece-set",
+  "status": "discontinued",
+  "notes": "INCOMPLETE: spode.com description is truncated after \"6.5 inch Bread\"; piece count implies one more item x8 (likely cereal bowl or mug) + hostess set (assumed by analogy with 28/52 piece sets)",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Dinner Plate",
+    "qty": 8
+   },
+   {
+    "name": "Christmas Tree Salad Plate",
+    "qty": 8
+   },
+   {
+    "name": "Christmas Tree Bread & Butter Plate",
+    "qty": 8
+   },
+   {
+    "name": "Christmas Tree Covered Butter Dish",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Salt & Pepper Set",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 52 Piece Set",
+  "collection": "Classic",
+  "type": "Dinnerware Set",
+  "sku": "1428126",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151428126_main.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-52-piece-set",
+  "status": "current",
+  "notes": "service for 12 + hostess set",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Dinner Plate",
+    "qty": 12
+   },
+   {
+    "name": "Christmas Tree Salad Plate",
+    "qty": 12
+   },
+   {
+    "name": "Christmas Tree Bread & Butter Plate",
+    "qty": 12
+   },
+   {
+    "name": "Christmas Tree Cereal Bowl",
+    "qty": 12
+   },
+   {
+    "name": "Christmas Tree Covered Butter Dish",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Salt & Pepper Set",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 52-Piece Set with Mug and Shallow Cereal Bowl",
+  "collection": "Classic",
+  "type": "Dinnerware Set",
+  "sku": "1428140",
+  "image_url": "https://www.spode.com/media/catalog/product/1/4/1428140_1.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-52-piece-set-with-mug-and-shallow-cereal-bowl",
+  "status": "discontinued",
+  "notes": "service for 12: 9 oz mugs, 5.5\" cereal/oatmeal bowls + hostess set",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Dinner Plate",
+    "qty": 12
+   },
+   {
+    "name": "Christmas Tree Salad Plate",
+    "qty": 12
+   },
+   {
+    "name": "Christmas Tree Mug",
+    "qty": 12
+   },
+   {
+    "name": "Christmas Tree Cereal Bowl",
+    "qty": 12
+   },
+   {
+    "name": "Christmas Tree Covered Butter Dish",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Salt & Pepper Set",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 32 Piece Set (Mixed)",
+  "collection": "Tartan",
+  "type": "Dinnerware Set",
+  "sku": "1354142",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151354142_main.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-32-piece-set-mixed",
+  "status": "discontinued",
+  "notes": "mixes Tartan dinner plates & bowls with classic salad plates + stemless wine; \"tartan bowls\" mapped to 6.5\" bowl (could be rice bowl)",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Tartan 10.5 Inch Dinner Plate",
+    "qty": 8
+   },
+   {
+    "name": "Christmas Tree Tartan 6.5 Inch Bowl",
+    "qty": 8
+   },
+   {
+    "name": "Christmas Tree Salad Plate",
+    "qty": 8
+   },
+   {
+    "name": "Christmas Tree Stemless Wine",
+    "qty": 8
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree Tartan 12 Piece Set",
+  "collection": "Tartan",
+  "type": "Dinnerware Set",
+  "sku": "1404861",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151404861_main.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-tartan-12-piece-set",
+  "status": "discontinued",
+  "notes": "web exclusive",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Tartan 10.5 Inch Dinner Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Tartan 7.75 Inch Salad Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Tartan Rice Bowl",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree Holly 12 Piece Set",
+  "collection": "Holly",
+  "type": "Dinnerware Set",
+  "sku": "1802421",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151802421_main.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-holly-12-piece-set-1802421",
+  "status": "discontinued",
+  "notes": "holly dinner plate + classic salad plate + holly mug",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Holly Dinner Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Salad Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Holly Mug",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 4 Piece Place Setting",
+  "collection": "Classic",
+  "type": "Place Setting",
+  "sku": "4056591",
+  "image_url": "https://www.spode.com/media/catalog/product/9/2/92764056591_main.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-4-piece-place-setting",
+  "status": "discontinued",
+  "notes": null,
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Dinner Plate",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Salad Plate",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Cereal Bowl",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Mug",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 5 Piece Place Setting",
+  "collection": "Classic",
+  "type": "Place Setting",
+  "sku": "1845268",
+  "image_url": "https://www.spode.com/media/catalog/product/4/3/4300021_1.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-5-piece-place-setting-1845268",
+  "status": "discontinued",
+  "notes": "teacup & saucer count as 2 pieces",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Dinner Plate",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Salad Plate",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Bread & Butter Plate",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Teacup & Saucer",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree Gold Collection 4 Piece Place Setting",
+  "collection": "Gold",
+  "type": "Place Setting",
+  "sku": "1557093",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151557093_main_updated.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-gold-collection-4-piece-place-setting",
+  "status": "discontinued",
+  "notes": "22k gold accents; teacup & saucer count as 2 pieces",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Gold Dinner Plates 10.5 Inch",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Gold Salad Plate",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Gold Teacup & Saucer",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 4 Piece Set (Tree Platter & Dip Bowls)",
+  "collection": "Classic",
+  "type": "Set",
+  "sku": "1667341",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151667341_main.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-4-piece-set",
+  "status": "discontinued",
+  "notes": "12\" tree platter + three dip bowls; platter mapped to \"Shaped Tree Dish\" (could be \"Tree Dish\" XT8261)",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Shaped Tree Dish",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Dip Bowl",
+    "qty": 3
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 7 Piece Pasta Serving Set",
+  "collection": "Classic",
+  "type": "Set",
+  "sku": "1354203",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151354203_main.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-7-piece-pasta-serving-set",
+  "status": "discontinued",
+  "notes": "13\" serving bowl, four 9\" bowls, 2-pc serving set",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree 13 Inch Pasta Bowl",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Pasta Bowl",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Salad Server",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 4 Piece Wine Gift Set",
+  "collection": "Classic",
+  "type": "Set",
+  "sku": "1354159",
+  "image_url": "https://www.spode.com/media/catalog/product/x/t/xt_ecom_wine_set.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-4-piece-wine-gift-set",
+  "status": "discontinued",
+  "notes": "chiller + coaster + Santa and tree wine stoppers",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Wine Chiller and Coaster Set",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Bottle Stopper",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Bottle Stopper (Santa)",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 2022 Annual 4 Piece Mug and Spoon Set",
+  "collection": "Annual",
+  "type": "Set",
+  "sku": "1779907",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151779907_main.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-2022-annual-4-piece-mug-and-spoon-set",
+  "status": "discontinued",
+  "notes": "two 14 oz dated mugs (eucalyptus border) + 2 spoons; mug mapped to 2022 Annual Mandarin Mug, verify",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree 2022 Annual Mandarin Mug",
+    "qty": 2
+   },
+   {
+    "name": "Christmas Tree 2022 Annual Spoon",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree Buffet Table",
+  "collection": "Classic",
+  "type": "Set",
+  "sku": "1831650",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151831650_main.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-buffet-table",
+  "status": "current",
+  "notes": "bundle; includes a \"3-Piece Dip Bowl Set\" mapped to Dip Bowl x1 (exact 3-pc set not in catalog)",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Large Divided Server",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Sandwich Tray",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Devilled Egg Dish",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Dip Bowl",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Salad Plate",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "name": "Christmas Eve Bundle",
+  "collection": "Peppermint",
+  "type": "Set",
+  "sku": "1831612",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151831612_main.jpg",
+  "source_url": "https://www.spode.com/christmas-eve-bundle",
+  "status": "current",
+  "notes": "Santa plate & milk bottle + four Candy Cane mugs with candy spoons",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Santa Plate & Milk Bottle Set",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Candy Cane Mug",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree Christmas Lunch",
+  "collection": "Classic",
+  "type": "Set",
+  "sku": "1831629",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151831629_main.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-christmas-lunch",
+  "status": "discontinued",
+  "notes": "bundle: cranberry server & spoon, sauce boat & stand, large oval platter + 12-piece dinner set (expanded as UK 12 pc contents)",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Server with Slotted Spoon",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Sauce Boat & Stand",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Oval Platter",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Dinner Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Bread & Butter Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Cereal Bowl",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree Bird Dec Bundle",
+  "collection": "Ornaments",
+  "type": "Set",
+  "sku": "1831636",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151831636_main.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-bird-dec-bundle",
+  "status": "discontinued",
+  "notes": null,
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Birdhouse Ornament",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Robin Ornament",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Chickadee Ornament",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Cardinal Ornament",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree Drinks and Nibbles",
+  "collection": "Classic",
+  "type": "Set",
+  "sku": "1831643",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151831643_main.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-drinks-and-nibbles",
+  "status": "discontinued",
+  "notes": "bundle; stemless wine set size assumed 4",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Stemless Wine Glass",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Bottle Stopper",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Tidbit Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Goblet",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree Accessories Bundle",
+  "collection": "Classic",
+  "type": "Set",
+  "sku": "1831667",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151831667_main.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-accessories-bundle",
+  "status": "discontinued",
+  "notes": null,
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Card/ Napkin Holder",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Gift & Tree Salt & Pepper Set",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Bottle Stopper",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Placemat",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree Festive Treats",
+  "collection": "Classic",
+  "type": "Set",
+  "sku": "1831674",
+  "image_url": "https://www.spode.com/media/catalog/product/7/4/749151831674_main.jpg",
+  "source_url": "https://www.spode.com/christmas-tree-festive-treats",
+  "status": "discontinued",
+  "notes": "\"tree-shaped teapot\" mapped to Christmas Tree Teapot",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Teapot",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Mug",
+    "qty": 2
+   },
+   {
+    "name": "Christmas Tree Salad Plate",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree Yuletide 12-Piece Dinnerware Set",
+  "collection": "Yuletide",
+  "type": "Dinnerware Set",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Yuletide-12-Piece-Dinnerware-Set-Made-England-Christmas-Tree-Earthenware-Festive-Yuletide-Details-10-5-Lead-Free-Dinnerware-Fami_24a6ad51-67dc-4af3-8f8e-81982bd257b9.01f2ba43941bd2cc57d8a039d9ad6bc2.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Yuletide-12-Piece-Dinnerware-Set-Made-England-Christmas-Tree-Earthenware-Festive-Yuletide-Details-10-5-Lead-Free-Dinnerware-Fami/21095723327",
+  "status": "unknown",
+  "notes": "CONTENTS INFERRED (4 each dinner/salad/bowl) - listing gives only piece count; listing title: \"Spode Christmas Tree Yuletide 12-Piece Dinnerware Set - Made in England - Christmas Tree Earthenware with Festive Yuleti\"",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Yuletide Dinner Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Yuletide Salad Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Yuletide Bowl",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree Yuletide Scalloped Dinner Plate",
+  "collection": "Yuletide",
+  "type": "Dinner Plate",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Yuletide-Dinner-Plate-Set-of-4-Scalloped-Design_d820046f-c263-47c6-92cb-d10ea2a0edf3.424c9c99d45a8ac06ba2190d31f9c889.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Yuletide-Dinner-Plate-Set-of-4-Scalloped-Design/20878509144",
+  "status": "unknown",
+  "notes": "10.6\" scalloped edge; sold as set of 4 (Walmart marketplace)"
+ },
+ {
+  "name": "Christmas Tree Yuletide 8-Piece Dinner Set (Scalloped)",
+  "collection": "Yuletide",
+  "type": "Dinnerware Set",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Yuletide-8-Piece-Dinner-Set-Scalloped-Edges-Dinner-Salad-Plates-Festive-Scalloped-Design-10-6-Lead-Free-Dinnerware-Christmas-Mea_f70afad4-08d6-44f5-a64a-17ab7289dccf.39e4a2373fe47e7fbdb4105ee4be23ef.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Yuletide-8-Piece-Dinner-Set-Scalloped-Edges-Dinner-Salad-Plates-Festive-Scalloped-Design-10-6-Lead-Free-Dinnerware-Christmas-Mea/21095773210",
+  "status": "unknown",
+  "notes": "dinner & salad plates with scalloped edges; salad mapped to Scalloped Dresser Plate; listing title: \"Spode Christmas Tree Yuletide 8-Piece Dinner Set - Scalloped Edges - Dinner & Salad Plates with Festive Scalloped Design\"",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Yuletide Scalloped Dinner Plate",
+    "qty": 4
+   },
+   {
+    "name": "Christmas Tree Yuletide Scalloped Dresser Plate",
+    "qty": 4
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree Wreath Salad Plate",
+  "collection": "Wreath",
+  "type": "Salad/Dessert Plate",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Wreath-Salad-Plate-Earthenware-Green_cc373695-2af2-4942-a292-7a216bb47a19.e448a8f67f1249250c99e91a32dd5d82.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Wreath-Salad-Plate-Earthenware-Green/20926513884",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree Wreath Salad Plate - Earthenware, Green\""
+ },
+ {
+  "name": "Christmas Tree Wreath 3-Piece Plate Set",
+  "collection": "Wreath",
+  "type": "Place Setting",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Wreath-3-Piece-Plate-Set-Made-in-England-Lead-Free_89392344-934e-4dd6-9094-44e4ccbac7a3.e7d2bc03d4c929d041226c006e4d671e.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Wreath-3-Piece-Plate-Set-Made-in-England-Lead-Free/20878051046",
+  "status": "unknown",
+  "notes": "CONTENTS INFERRED (dinner/salad/bread & butter); listing title: \"Spode Christmas Tree Wreath 3-Piece Plate Set - Made in England, Lead-Free\"",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Wreath Dinner Plate",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Wreath Salad Plate",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Wreath Bread & Butter Plate",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree Village Red Mug & Tidbit Set",
+  "collection": "Village",
+  "type": "Set",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-11-4-oz-Christmas-Tree-Village-Mug-Serving-Set-Lead-Free-Red-Festive-House-Mug-Iconic-Christmas-Tree-Details-7-3-x-5-6-Tidbit-Tray-Serving-Appe_889b159e-5860-4fff-be1a-c1b74984a3b2.6350ebdcb8a5ab3b815f39ce336a1f2c.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-11-4-oz-Christmas-Tree-Village-Mug-Serving-Set-Lead-Free-Red-Festive-House-Mug-Iconic-Christmas-Tree-Details-7-3-x-5-6-Tidbit-Tray-Serving-Appe/21107219836",
+  "status": "unknown",
+  "notes": "11.4 oz mug + 7.3x5.6\" tidbit tray; listing title: \"Spode 11.4 oz Christmas Tree Village Mug & Serving Set - Lead-Free (Red) - Festive House Mug with Iconic Christmas Tree \"",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Village Red Mug",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Village Red Tidbit Tray",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree Village Green Mug & Tidbit Set",
+  "collection": "Village",
+  "type": "Set",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-11-4-oz-Christmas-Tree-Village-Tidbit-Mug-Set-Lead-Free-Green_6f867083-a7f2-45ad-b7d9-1af4702d9c69.e31aa93ecded908567127ff6ad86b3f6.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-11-4-oz-Christmas-Tree-Village-Tidbit-Mug-Set-Lead-Free-Green/20928650040",
+  "status": "unknown",
+  "notes": "listing title: \"Spode 11.4 oz Christmas Tree Village Tidbit & Mug Set - Lead-Free (Green)\"",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Village Green Mug",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Village Green Tidbit Tray",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree Salad Bowl & Server Set",
+  "collection": "Classic",
+  "type": "Set",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Salad-Bowl-Server-Set-Lead-Free-Porcelain-Steel-Classic-Christmas-Tree-Design-10-Round-Bowl-9-25-Salad-Servers-Festive-Serveware_17986c62-9c79-457a-9d14-54b7cfe05082.4b8d8177d998287f4d22cfa5091b4656.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Salad-Bowl-Server-Set-Lead-Free-Porcelain-Steel-Classic-Christmas-Tree-Design-10-Round-Bowl-9-25-Salad-Servers-Festive-Serveware/21107770146",
+  "status": "unknown",
+  "notes": "10\" round bowl + 9.25\" salad servers; listing title: \"Spode Christmas Tree Salad Bowl & Server Set - Lead-Free Porcelain, Steel - Classic Christmas Tree Design 10\" Round Bowl\"",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree 10 Inch Salad Bowl",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Salad Server",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 60 Piece Flatware Set",
+  "collection": "Classic",
+  "type": "Set",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-18-10-Stainless-60pc-Flatware-Set-Service-for-Twelve_380da6f4-8013-49af-a907-5f3be08a1ba4.16a897c8ce4227ad0f83f3585922c7d6.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-18-10-Stainless-60pc-Flatware-Set-Service-for-Twelve/3743970742",
+  "status": "unknown",
+  "notes": "18/10 stainless, service for 12; per-piece contents not given (likely 12 x 5-piece place settings); listing title: \"Spode Christmas Tree 18/10 Stainless 60pc. Flatware Set (Service for Twelve)\"",
+  "is_set": true,
+  "components": []
+ },
+ {
+  "name": "Christmas Tree Mug & LED Tree Ornament Set",
+  "collection": "Classic",
+  "type": "Set",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Fine-Porcelain-China-Mug-LED-Tree-Ornament_a27bc599-9913-4e08-adb5-11e7298839be.70811cd5a4e46911faf1973f150828d5.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Fine-Porcelain-China-Mug-LED-Tree-Ornament/199524626",
+  "status": "unknown",
+  "notes": "gift set; component mapping inferred from title; listing title: \"Spode Christmas Tree Fine Porcelain China Mug & LED Tree Ornament\"",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Mug",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Multicolor LED Tree Ornament",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree Polka Dot Mug & Coaster Tin Set",
+  "collection": "Polka Dot",
+  "type": "Set",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Polka-Dot-Mug-Coaster-Set-Tin-Box-5-Piece-Set-Festive-Holiday-Gift-Set-Tea-Lovers-Elegant-Porcelain-Mugs-Cork-Backed-Coasters-Di_a39b6931-8930-4a5e-bc74-14c5b9c2b636.0cdf2b5131bc8464cec4dd335ca85456.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Polka-Dot-Mug-Coaster-Set-Tin-Box-5-Piece-Set-Festive-Holiday-Gift-Set-Tea-Lovers-Elegant-Porcelain-Mugs-Cork-Backed-Coasters-Di/5034335276",
+  "status": "unknown",
+  "notes": "5-piece: presumably 2 mugs + 2 cork coasters + tin; mug size unknown so mugs not mapped (components partial); listing title: \"Spode Christmas Tree Polka Dot Mug & Coaster Set with Tin Box (5-Piece Set) - Festive Holiday Gift Set for Tea Lovers - \"",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Polka Dot Coaster",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree Tartan Mug & Coaster Tin Set",
+  "collection": "Tartan",
+  "type": "Set",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Tartan-Mug-Coaster-Set-Tin-Box-5-Piece-Set-Festive-Holiday-Gift-Set-Coffee-Lovers-Elegant-Porcelain-Mugs-Cork-Backed-Coasters-Di_6d2ff999-1c3f-4fd1-a677-7bbc8ecfc694.1d73ba081735757cfa6c14bcf78fa0ac.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Tartan-Mug-Coaster-Set-Tin-Box-5-Piece-Set-Festive-Holiday-Gift-Set-Coffee-Lovers-Elegant-Porcelain-Mugs-Cork-Backed-Coasters-Di/5035179103",
+  "status": "unknown",
+  "notes": "5-piece: presumably 2 mugs + 2 cork coasters + tin; contents not itemized; listing title: \"Spode Christmas Tree Tartan Mug & Coaster Set with Tin Box (5-Piece Set) - Festive Holiday Gift Set for Coffee Lovers - \"",
+  "is_set": true,
+  "components": []
+ },
+ {
+  "name": "Christmas Tree Peppermint 5-Piece Serveware Set",
+  "collection": "Peppermint",
+  "type": "Set",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-14-oz-Christmas-Tree-Peppermint-Serveware-Set-Lead-Free-5-Piece_45b82905-8b29-4315-92c2-a93b0afb1f40.9847f40d45ce634d5f1316674446d1ed.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-14-oz-Christmas-Tree-Peppermint-Serveware-Set-Lead-Free-5-Piece/20926513914",
+  "status": "unknown",
+  "notes": "contents not given in listing; listing title: \"Spode 14 oz Christmas Tree Peppermint Serveware Set - Lead-Free, 5-Piece\"",
+  "is_set": true,
+  "components": []
+ },
+ {
+  "name": "Christmas Tree Peppermint Chip & Dip Set",
+  "collection": "Peppermint",
+  "type": "Set",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/02/6ae9037f72e6249cc9a8246b/l_6ae903802313937b4bbea2f2.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Peppermint-Chip-and-Dip-Platter-and-3-Bowls-Set-Ceramic-6ae9037f72e6249cc9a8246b",
+  "status": "unknown",
+  "notes": "platter + 3 bowls per listing title; vintage resale listing; status inferred; listing title: \"Spode Christmas Tree Peppermint Chip and Dip Platter and 3 Bowls Set Ceramic\"",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Peppermint Chip & Dip Platter",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree Peppermint Dip Bowl",
+    "qty": 3
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 2024 Annual Mug & Coaster Tin Set",
+  "collection": "Annual",
+  "type": "Set",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/29/6ae375ad970988fa667a1086/l_6ae375c470333f876ebfadad.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-2024-Mug-Coaster-Set-of-5-with-Tin-6ae375ad970988fa667a1086",
+  "status": "unknown",
+  "notes": "5-piece: 2 mugs + 2 coasters + tin (inferred); mugs mapped to 2024 Annual Collector Mug; listing title: \"Spode Christmas Tree 2024 Mug & Coaster Set of 5 with Tin\"",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree 2024 Annual Collector Mug",
+    "qty": 2
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree 5 Piece Hors d'Oeuvre Set",
+  "collection": "Classic",
+  "type": "Set",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/03/6ae9b2fe620952f38bc8fabf/l_6ae9b2fe620952f38bc8fac0.jpg",
+  "source_url": "https://poshmark.com/listing/SPODE-CHRISTMAS-TREE-5-PIECE-HORS-D-OEURVE-BOX-SET-NEW-IN-BOX-Rare-Holiday-6ae9b2fe620952f38bc8fabf",
+  "status": "unknown",
+  "notes": "boxed set; contents unknown; vintage resale listing; status inferred; listing title: \"SPODE CHRISTMAS TREE 5 PIECE HORS D OEURVE‎ BOX SET NEW IN BOX Rare Holiday\"",
+  "is_set": true,
+  "components": []
+ },
+ {
+  "name": "Christmas Tree 5-Piece Hostess Serving Set (Wallace)",
+  "collection": "Classic",
+  "type": "Set",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/07/6ac6c984e912b3e0e7d41152/l_6ac6c9f6c6a0b3afb26549f8.jpg",
+  "source_url": "https://poshmark.com/listing/Wallace-Spode-Christmas-Tree-5Piece-Hostess-Serving-Set-Stainless-NEW-UNUSED-6ac6c984e912b3e0e7d41152",
+  "status": "unknown",
+  "notes": "Wallace stainless serving utensils licensed; contents unknown; listing title: \"Wallace Spode Christmas Tree 5-Piece Hostess Serving Set Stainless NEW UNUSED\"",
+  "is_set": true,
+  "components": []
+ },
+ {
+  "name": "Christmas Tree Tea for One",
+  "collection": "Classic",
+  "type": "Set",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/11/6acc00083ae6c162291356ab/l_6acc0008ab650bce2ebaacbb.jpg",
+  "source_url": "https://poshmark.com/listing/SPODE-Christmas-Tree-Tea-for-One-Stackable-Teapot-and-Cup-Set-Holiday-Gift-NEW-6acc00083ae6c162291356ab",
+  "status": "unknown",
+  "notes": "stackable teapot + cup (3 pc incl. lid); vintage resale listing; status inferred; listing title: \"SPODE Christmas Tree Tea for One Stackable Teapot and Cup Set Holiday Gift NEW\"",
+  "is_set": true,
+  "components": []
+ },
+ {
+  "name": "Christmas Tree Peppermint Tea for One",
+  "collection": "Peppermint",
+  "type": "Set",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/02/6ae95cd5d776bd9ba86c2161/l_6ae95cd7441b19c7cd07f48f.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-3Cup-Peppermint-Tea-for-One-Set-New-in-Box-6ae95cd5d776bd9ba86c2161",
+  "status": "unknown",
+  "notes": "3-cup stacking teapot set; listing title: \"Spode Christmas Tree 3-Cup Peppermint Tea for One Set - New in Box\"",
+  "is_set": true,
+  "components": []
+ },
+ {
+  "name": "Christmas Tree Teapot, Covered Sugar & Creamer Set",
+  "collection": "Classic",
+  "type": "Set",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/03/05/69a98d99c4e7b4a57619989d/l_69a98d9f21b8013ba372af64.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Teapot-Covered-Sugar-and-Creamer-Set-69a98d99c4e7b4a57619989d",
+  "status": "unknown",
+  "notes": "vintage resale listing; status inferred; listing title: \"Spode Christmas Tree Teapot, Covered Sugar and Creamer Set\"",
+  "is_set": true,
+  "components": [
+   {
+    "name": "Christmas Tree Teapot",
+    "qty": 1
+   },
+   {
+    "name": "Christmas Tree 3 Piece Sugar & Creamer Set",
+    "qty": 1
+   }
+  ]
+ },
+ {
+  "name": "Christmas Tree Rectangular Sentiment Tray",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Rectangular-Sentiment-Tray-7-x-5-Festive-Earthenware-Serving-Plate-Holiday-Snacks-Side-Dishes-Treats-Durable-Christmas-Tableware_b9ba61ba-2c94-4c4e-a533-a4bead002db7.4eaec2be0a4408909175af004ced276d.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Rectangular-Sentiment-Tray-7-x-5-Festive-Earthenware-Serving-Plate-Holiday-Snacks-Side-Dishes-Treats-Durable-Christmas-Tableware/121721995",
+  "status": "unknown",
+  "notes": "7\" x 5\"; listing title: \"Spode Christmas Tree Rectangular Sentiment Tray (7\" x 5\") - Festive Earthenware Serving Plate for Holiday Snacks, Side D\""
+ },
+ {
+  "name": "Christmas Tree Hurricane Lamp",
+  "collection": "Classic",
+  "type": "Candle/Decor",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Hurricane-Lamp-6-5-Earthenware-Decorative-Candle-Holder-Festive-Centerpiece-Mantel-Table-Holiday-Home-Decor-Pillar-Candle-Orname_cf8ce3ec-b4a2-4469-b5f3-1f630e36bef2.65e19dae213bae11b59fdf4735f51f38.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Hurricane-Lamp-6-5-Earthenware-Decorative-Candle-Holder-Festive-Centerpiece-Mantel-Table-Holiday-Home-Decor-Pillar-Candle-Orname/11596151341",
+  "status": "unknown",
+  "notes": "6.5\" earthenware pillar candle holder; listing title: \"Spode Christmas Tree Hurricane Lamp - 6.5\" Earthenware Decorative Candle Holder, Festive Centerpiece for Mantel, Table, \""
+ },
+ {
+  "name": "Christmas Tree Oval Festive Tray",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Oval-Festive-Tray-11-Inch-Rectangular-Earthenware-Serving-Tray-Holiday-Tableware-Seasonal-Trays-Entertainment-Dishwasher-Microwa_ad5232b9-870c-47bf-80a1-a10483d419b1.39b49ddba7321842e4adf6464a152235.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Oval-Festive-Tray-11-Inch-Rectangular-Earthenware-Serving-Tray-Holiday-Tableware-Seasonal-Trays-Entertainment-Dishwasher-Microwa/158740997",
+  "status": "unknown",
+  "notes": "11\"; listing title: \"Spode Christmas Tree Oval Festive Tray - 11-Inch Rectangular Earthenware Serving Tray, Holiday Tableware - Seasonal Tray\""
+ },
+ {
+  "name": "Christmas Tree 11 Inch Rectangular Scalloped Tray",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-11-Inch-Rectangular-Scalloped-Tray-Stoneware-Holiday-Serving-Platter-Appetizers-Fruits-Snacks-Desserts-Festive-Tableware-Dishwas_cfb546b7-f3b3-4155-a17e-74033bfbfa20.66115495d40b357de0038507882f2453.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-11-Inch-Rectangular-Scalloped-Tray-Stoneware-Holiday-Serving-Platter-Appetizers-Fruits-Snacks-Desserts-Festive-Tableware-Dishwas/760217491",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree 11-Inch Rectangular Scalloped Tray, Stoneware Holiday Serving Platter for Appetizers, Fruits, Snack\""
+ },
+ {
+  "name": "Christmas Tree 12.25 Inch Round Handled Serving Platter",
+  "collection": "Classic",
+  "type": "Platter",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-12-25-Round-Handled-Serving-Platter-Porcelain-Serving-Plate-Holiday-Snacks-Appetizers-Buffet-Displays-Dishwasher-Safe-Christmas_de516cd8-ba7f-4bd9-9826-81318ce1c129.a1ea841d59059c572bfc67400cf728df.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-12-25-Round-Handled-Serving-Platter-Porcelain-Serving-Plate-Holiday-Snacks-Appetizers-Buffet-Displays-Dishwasher-Safe-Christmas/114624399",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree 12.25\" Round Handled Serving Platter - Porcelain Serving Plate for Holiday Snacks, Appetizers, Buff\""
+ },
+ {
+  "name": "Christmas Tree 19 Inch Serving Platter",
+  "collection": "Classic",
+  "type": "Platter",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-19-Serving-Platter-Porcelain-Holiday-Serving-Tray-Entertaining-Dishwasher-Microwave-Safe-Classic-Christmas-Tableware-Serving-Fes_5717dbb9-fc42-4e63-b5c2-855e8d1c59e6.56623fcf4771962197f289f61a3dd073.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-19-Serving-Platter-Porcelain-Holiday-Serving-Tray-Entertaining-Dishwasher-Microwave-Safe-Classic-Christmas-Tableware-Serving-Fes/153756679",
+  "status": "unknown",
+  "notes": "may be the same as the Oval Platter in raw.json - verify; listing title: \"Spode Christmas Tree 19\" Serving Platter - Porcelain Holiday Serving Tray for Entertaining - Dishwasher & Microwave Safe\""
+ },
+ {
+  "name": "Christmas Tree 6 Inch Handled Bell",
+  "collection": "Classic",
+  "type": "Candle/Decor",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-6-Handled-Bell-Elegant-Holiday-Bell-Decoration-Christmas-D-cor-Collectible-Christmas-Tree-Motif-Fine-Earthenware-Ideal-Holiday-T_333bae0b-6efc-4653-b3a9-c5c3ce60c644.842c1b0d037024d5f129da35d457c878.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-6-Handled-Bell-Elegant-Holiday-Bell-Decoration-Christmas-D-cor-Collectible-Christmas-Tree-Motif-Fine-Earthenware-Ideal-Holiday-T/5044567446",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree 6\" Handled Bell - Elegant Holiday Bell Decoration for Christmas Dcor, Collectible Christmas Tree Mo\""
+ },
+ {
+  "name": "Christmas Tree 6 Inch Oval Fluted Dish",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-6-Oval-Fluted-Dish-Set-2-Porcelain-Decorative-Holiday-Serving-Platter-Festive-Appetizer-Dish-Serving-Roasted-Vegetables-Snacks-A_cbc28b74-41cd-43e7-9673-8ec91e79dca1.cb68c181210f92052f905503838c8f3a.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-6-Oval-Fluted-Dish-Set-2-Porcelain-Decorative-Holiday-Serving-Platter-Festive-Appetizer-Dish-Serving-Roasted-Vegetables-Snacks-A/114969445",
+  "status": "unknown",
+  "notes": "sold as set of 2; listing title: \"Spode Christmas Tree 6\" Oval Fluted Dish (Set of 2), Porcelain Decorative Holiday Serving Platter & Festive Appetizer Di\""
+ },
+ {
+  "name": "Christmas Tree 9 Inch Round Divided Server",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Divided-Server-9-Inch-Round-Festive-Serveware-Holiday-Entertaining-Platter-Side-Dishes-Dips-Salads-Fine-Porcelain-Dishwasher-Mic_63557fe0-affd-49e8-8429-bf9ccc7d7eea.75fcf95c5ee7ea86a21d0510b5c10eea.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Divided-Server-9-Inch-Round-Festive-Serveware-Holiday-Entertaining-Platter-Side-Dishes-Dips-Salads-Fine-Porcelain-Dishwasher-Mic/5033033830",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree Divided Server, 9-Inch Round Festive Serveware, Holiday Entertaining Platter for Side Dishes, Dips,\""
+ },
+ {
+  "name": "Christmas Tree Figural Puppy Cookie Jar",
+  "collection": "Classic",
+  "type": "Cookie Jar",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Figural-Puppy-Cookie-Jar-10-Earthenware-Christmas-Cookie-Jar-Lid-Whimsical-Holiday-Treat-Jar-Candy-Jar-Kitchen-Counter-Festive-K_1e43a2cf-059b-491c-aa86-999d01690068.739d35e3d8f8527b5a54cfbdbc2e9d93.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Figural-Puppy-Cookie-Jar-10-Earthenware-Christmas-Cookie-Jar-Lid-Whimsical-Holiday-Treat-Jar-Candy-Jar-Kitchen-Counter-Festive-K/122632606",
+  "status": "unknown",
+  "notes": "10\"; listing title: \"Spode Christmas Tree Figural Puppy Cookie Jar - 10\" Earthenware Christmas Cookie Jar with Lid - Whimsical Holiday Treat \""
+ },
+ {
+  "name": "Christmas Tree 6.5 Inch Footed Square Cake Plate",
+  "collection": "Classic",
+  "type": "Cake Stand",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Footed-Square-Cake-Plate-6-5-Inch-Holiday-Cake-Stand-Desserts-Cupcakes-Treat-Display-Made-Fine-Porcelain-Iconic-Christmas-Tree-D_c53850da-cbec-4ea5-91f5-da40297adef8.2e8e05c3782bffc966bb0540f87bf12b.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Footed-Square-Cake-Plate-6-5-Inch-Holiday-Cake-Stand-Desserts-Cupcakes-Treat-Display-Made-Fine-Porcelain-Iconic-Christmas-Tree-D/158116182",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree Footed Square Cake Plate - 6.5-Inch Holiday Cake Stand for Desserts, Cupcakes, and Treat Display - \""
+ },
+ {
+  "name": "Christmas Tree Glass Pitcher, 96 oz",
+  "collection": "Classic",
+  "type": "Pitcher",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Glass-Pitcher-Festive-96-Oz-Large-Glass-Pitcher-Holidays-Crystal-Clear-Beverage-Pitcher-Handle-Cocktails-Water-Juice-Lemonade-Di_5c89b733-fd58-46b7-8763-4b1fef62cf7c.91f65072c1c56454ae0847d9babeae3c.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Glass-Pitcher-Festive-96-Oz-Large-Glass-Pitcher-Holidays-Crystal-Clear-Beverage-Pitcher-Handle-Cocktails-Water-Juice-Lemonade-Di/54018450",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree Glass Pitcher - Festive 96 Oz Large Glass Pitcher for Holidays, Crystal-Clear Beverage Pitcher with\""
+ },
+ {
+  "name": "Christmas Tree Hexagonal Salt & Pepper",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Hexagonal-Salt-Pepper-Shaker-Set-2-Piece-Holiday-Kitchen-Table-D-cor-Festive-Home-Accent-Christmas-Gift-Stocking-Stuffer-Collect_7beeedbd-32fb-4375-9c96-7bf788aafbfc.7d06e28b235905313fdc91b310c2a8b1.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Hexagonal-Salt-Pepper-Shaker-Set-2-Piece-Holiday-Kitchen-Table-D-cor-Festive-Home-Accent-Christmas-Gift-Stocking-Stuffer-Collect/1184382404",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree Hexagonal Salt and Pepper Shaker Set (2-Piece)- Holiday Kitchen & Table Dcor - Festive Home Accent,\""
+ },
+ {
+  "name": "Christmas Tree Mitten Dishes",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Mitten-Dishes-Set-2-Red-Green-Serving-Platters-Cookies-Desserts-Appetizers-7-Fine-Earthenware-Plates-Dishwasher-Safe-Holiday-Tab_df458e02-8357-46a6-ab3d-828118da9db9.95e9b6753676bc9ef4ff7e9e13bbb73d.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Mitten-Dishes-Set-2-Red-Green-Serving-Platters-Cookies-Desserts-Appetizers-7-Fine-Earthenware-Plates-Dishwasher-Safe-Holiday-Tab/127322719",
+  "status": "unknown",
+  "notes": "7\"; sold as set of 2 (red & green); listing title: \"Spode Christmas Tree Mitten Dishes (Set of 2) - Red & Green Serving Platters for Cookies, Desserts, Appetizers, 7\" Fine \""
+ },
+ {
+  "name": "Christmas Tree Penguin Candy Jar",
+  "collection": "Classic",
+  "type": "Canister",
+  "sku": "XT8707-XP",
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/06/6a9e2705ef676cae42198d37/l_6a9e270632f934ccf4c734cb.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Penguin-Candy-Jar-Ceramic-75-XT8707XP-in-Original-Box-6a9e2705ef676cae42198d37",
+  "status": "unknown",
+  "notes": "7.5\"; listing title: \"Spode Christmas Tree Penguin Candy Jar Ceramic 7.5\" XT8707-XP in Original Box\""
+ },
+ {
+  "name": "Christmas Tree Ascot Cereal Bowl",
+  "collection": "Classic",
+  "type": "Bowl",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Ascot-Cereal-Bowls-Set-4-Use-Breakfast-Oatmeal-Cereal-Soup-Made-Fine-Earthenware-Measures-8-Inch-Dishwasher-Microwave-Safe_167632bc-9b4b-4d00-abe0-44bb47cf5d9d.56524112a0a40a4a37a76d526c4806a6.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Ascot-Cereal-Bowls-Set-4-Use-Breakfast-Oatmeal-Cereal-Soup-Made-Fine-Earthenware-Measures-8-Inch-Dishwasher-Microwave-Safe/1136319729",
+  "status": "unknown",
+  "notes": "8\"; sold as set of 4; listing title: \"Spode Christmas Tree Ascot Cereal Bowls Set of 4, Use for Breakfast, Oatmeal, Cereal, or Soup Made of Fine Earthenware, \""
+ },
+ {
+  "name": "Christmas Tree Romantic Footed Mug",
+  "collection": "Classic",
+  "type": "Mug",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-12-oz-Christmas-Tree-Romantic-Footed-Mugs-Set-of-2-Lead-Free_c5fb1839-78b0-4fd0-abf1-9d92614b7e96.dc521eb48f0c49cc265486a82e72613f.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-12-oz-Christmas-Tree-Romantic-Footed-Mugs-Set-of-2-Lead-Free/20941305863",
+  "status": "unknown",
+  "notes": "12 oz; sold as set of 2; listing title: \"Spode 12 oz Christmas Tree Romantic Footed Mugs, Set of 2 - Lead-Free\""
+ },
+ {
+  "name": "Christmas Tree Stacking Mug",
+  "collection": "Classic",
+  "type": "Mug",
+  "sku": null,
+  "image_url": null,
+  "source_url": "https://www.chairish.com/product/5197948/spode-christmas-tree-12-oz-stacking-mugs-set-of-4",
+  "status": "unknown",
+  "notes": "12 oz; sold as set of 4; listing title: \"Spode Christmas Tree Stacking Mugs 12 oz. - Set of 4\""
+ },
+ {
+  "name": "Christmas Tree Square Baker",
+  "collection": "Classic",
+  "type": "Bakeware",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Square-Baker_e03e4817-43e1-4431-9d28-065d2a24f1ea.520998b01cdc429e5c94797c25621de1.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Square-Baker/121020866",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree Square Baker\""
+ },
+ {
+  "name": "Christmas Tree Table Batter Jug",
+  "collection": "Classic",
+  "type": "Pitcher",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Table-Batter-Jug_0126cf6d-f594-4498-b029-80017005ea24.3cbbc1dca186b0b2bee4f61e7f40962c.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Table-Batter-Jug/129947628",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree Table Batter Jug\""
+ },
+ {
+  "name": "Christmas Tree Santa Claus Winter Wonderland Musical Snow Globe",
+  "collection": "Classic",
+  "type": "Candle/Decor",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Musical-6-5-Snow-Globe-for-Christmas-Plays-Up-On-the-House-Top-Made-from-Durable-Glass_805a15ef-53c9-4c2a-9bdc-2b36c166dc88.99f7ca4975bc0faa2071ddf8cd94c5b4.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Santa-Clause-Winter-Wonderland-Snow-Globe-Plays-Soothing-Music-Durable-Dolomite-Personalized-Collectible-Holiday-Gift-Great-Chri/1316062904",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree Santa Clause Winter Wonderland Snow Globe, Plays Soothing Music - Durable Dolomite, Personalized Co\""
+ },
+ {
+  "name": "Christmas Tree Ribbons Square Platter",
+  "collection": "Classic",
+  "type": "Platter",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Ribbons-Square-Platter-Multicolored_3fb4e048-ec9b-4e4c-9f75-ed333930c878.50c6ff77fcf4af73b43231337205859f.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Ribbons-Square-Platter-Multicolored/152030140",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree Ribbons Square Platter, Multicolored\""
+ },
+ {
+  "name": "Christmas Tree Ribbons Salt & Pepper Set",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/23/6ab49c02d48e7ea13a52d23c/l_6ab49cd328951f39ea6ad10f.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Ribbons-Salt-Pepper-Shaker-Set-2Piece-6ab49c02d48e7ea13a52d23c",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree Ribbons Salt & Pepper Shaker Set (2-Piece\""
+ },
+ {
+  "name": "Christmas Tree Ribbon Bell Shaped Box",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Ribbon-Bell-Shaped-Box-Porcelain-Trinket-Dish-w-Lid_4f719c87-9b34-4553-a55b-8dfc90f47e99.d958ba0ed857eb503043a8988415803d.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Ribbon-Bell-Shaped-Box-Porcelain-Trinket-Dish-w-Lid/18677710033",
+  "status": "unknown",
+  "notes": "lidded porcelain trinket box; listing title: \"Spode Christmas Tree Ribbon Bell Shaped Box, Porcelain Trinket Dish w/ Lid\""
+ },
+ {
+  "name": "Christmas Tree Red Ribbon 12 Inch Buffet Plate",
+  "collection": "Classic",
+  "type": "Charger",
+  "sku": "30CTB004",
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/19/6ad6e9a25ad4be827857e8af/l_6ad6ed2e88963fad070101fd.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Red-Ribbon-12-Inch-Buffet-Plate-Charger-Boxed-30CTB004-6ad6e9a25ad4be827857e8af",
+  "status": "discontinued",
+  "notes": "discontinued (resale); listing title: \"Spode Christmas Tree Red Ribbon 12 Inch Buffet Plate Charger Boxed 30CTB004\""
+ },
+ {
+  "name": "Christmas Tree Collector's Plate, Santa with Reindeer",
+  "collection": "Classic",
+  "type": "Accent Plate",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Collector-s-Plate-Exclusive-Design-Santa-Reindeer-Snowy-Village-Festive-Holly-Border-10-Inch-Porcelain-Christmas-Plate-Microwave_c0679166-4d89-4e43-ba5e-76089581aa01.5c36df0e20442d2d3475683247d0b1a6.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Collector-s-Plate-Exclusive-Design-Santa-Reindeer-Snowy-Village-Festive-Holly-Border-10-Inch-Porcelain-Christmas-Plate-Microwave/20156313194",
+  "status": "unknown",
+  "notes": "10\"; \"exclusive design\" collector plate, year unknown; listing title: \"Spode Christmas Tree Collector's Plate, Exclusive Design - Santa with Reindeer Over Snowy Village, Festive Holly Border \""
+ },
+ {
+  "name": "Christmas Tree Candy Cane Candy Bowl",
+  "collection": "Classic",
+  "type": "Serving Bowl",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/19/6ad636cbcb00f3d0b455ae7d/l_6ad636d08091efcaf6f06777.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Candy-Cane-Candy-Bowl-6-Macys-Holiday-Decor-6ad636cbcb00f3d0b455ae7d",
+  "status": "unknown",
+  "notes": "6\"; Macy's exclusive per listing; listing title: \"Spode Christmas Tree Candy Cane Candy Bowl 6” Macy's Holiday Decor\""
+ },
+ {
+  "name": "Christmas Tree Tartan Santa in Sleigh Ornament",
+  "collection": "Tartan",
+  "type": "Ornament",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Tartan-Santa-Sleigh-Ornament-Christmas-Tree-Decorations-Tartan-Plaid-Festive-Holiday-Ornaments-Christmas-Trees-Mantels-Home-Disp_07ce3caf-cb12-4c29-8349-265c5ba65cf5.c4a9a43488c967bc6140b37f9c21fd32.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Tartan-Santa-Sleigh-Ornament-Christmas-Tree-Decorations-Tartan-Plaid-Festive-Holiday-Ornaments-Christmas-Trees-Mantels-Home-Disp/1469496115",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree Tartan Santa in Sleigh Ornament - Christmas Tree Decorations with Tartan Plaid, Festive Holiday Orn\""
+ },
+ {
+  "name": "Christmas Tree Polka Dot Stackable Mug",
+  "collection": "Polka Dot",
+  "type": "Mug",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Polka-Dot-Stackable-Mugs-Set-4-Festive-10oz-Mugs-Hot-Chocolate-Coffee-Space-Saving-Design-Dishwasher-Microwave-Freezer-Safe-Fine_09d4c08e-e1cf-4205-b63f-273a4c4cd76f.e5825b3d11bd20186c768eadccfe7c1a.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Polka-Dot-Stackable-Mugs-Set-4-Festive-10oz-Mugs-Hot-Chocolate-Coffee-Space-Saving-Design-Dishwasher-Microwave-Freezer-Safe-Fine/1870453368",
+  "status": "unknown",
+  "notes": "10 oz; sold as set of 4; listing title: \"Spode Christmas Tree Polka Dot Stackable Mugs, Set of 4 - Festive 10oz for Hot Chocolate & Coffee, Space-Saving Design, \""
+ },
+ {
+  "name": "Christmas Tree Tartan Stacking Mug",
+  "collection": "Tartan",
+  "type": "Mug",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Tartan-Stacking-Mugs-Set-4-Festive-Tartan-Design-Coffee-Cups-10oz-Earthenware-Mugs-Holidays-Colorful-Fun-Stackable-Mugs-Great-Gi_e0582b8a-5c8a-4e8d-b576-d95219bd1bf3.45cbc3a9c2d8ef3231526950c7a79568.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Tartan-Stacking-Mugs-Set-4-Festive-Tartan-Design-Coffee-Cups-10oz-Earthenware-Mugs-Holidays-Colorful-Fun-Stackable-Mugs-Great-Gi/5045824218",
+  "status": "unknown",
+  "notes": "10 oz; sold as set of 4; listing title: \"Spode Christmas Tree Tartan Stacking Mugs, Set of 4 - Festive Tartan Design Coffee Cups, 10oz Earthenware Mugs for Holid\""
+ },
+ {
+  "name": "Christmas Tree Polka Dot Double Old Fashioned Glass",
+  "collection": "Polka Dot",
+  "type": "Drinkware/Glassware",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-14-Fl-Oz-Double-Old-Fashion-Glass-Set-4-Polka-Dot-Whiskey-Bourbon-Glasses-Festive-Entertaining-Old-Fashioned-Rocks-Glasses-Holid_c8f83199-1b89-4a7f-99a7-d94cc1eb8cab.902480687659c19a7e205a16994525da.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-14-Fl-Oz-Double-Old-Fashion-Glass-Set-4-Polka-Dot-Whiskey-Bourbon-Glasses-Festive-Entertaining-Old-Fashioned-Rocks-Glasses-Holid/18609271382",
+  "status": "unknown",
+  "notes": "14 oz; sold as set of 4; listing title: \"Spode Christmas Tree 14 Fl. Oz. Double Old Fashion Glass (Set of 4), Polka Dot - Whiskey & Bourbon Glasses for Festive E\""
+ },
+ {
+  "name": "Christmas Tree Sculpted Square Dish",
+  "collection": "Sculpted/Figural",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Sculpted-Square-Dish-5-5-Festive-Serving-Bowl-Holiday-Appetizers-Christmas-Desserts-Seasonal-Snacks-Winter-Table-D-cor-Fine-Eart_5844ba8f-abbf-4b48-9fda-cd6edc179072.651e3fbbf866e459c89ca252d6f596cc.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Sculpted-Square-Dish-5-5-Festive-Serving-Bowl-Holiday-Appetizers-Christmas-Desserts-Seasonal-Snacks-Winter-Table-D-cor-Fine-Eart/758336683",
+  "status": "unknown",
+  "notes": "5.5\"; listing title: \"Spode Christmas Tree Sculpted Square Dish - 5.5\" Festive Serving Bowl for Holiday Appetizers, Christmas Desserts, Season\""
+ },
+ {
+  "name": "Christmas Tree Sculpted Octagonal Platter",
+  "collection": "Sculpted/Figural",
+  "type": "Platter",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Sculpted-Octagonal-Platter-14-Inch-Holiday-Serving-Platter-Meats-Cheeses-Desserts-Dishwasher-Microwave-Safe-Christmas-Dinnerware_70743916-8e8f-450f-bc7d-99f5d8aaefd9.b6400e9de5a69859934829c3d9f18fc0.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Sculpted-Octagonal-Platter-14-Inch-Holiday-Serving-Platter-Meats-Cheeses-Desserts-Dishwasher-Microwave-Safe-Christmas-Dinnerware/179082334",
+  "status": "unknown",
+  "notes": "14\"; listing title: \"Spode Christmas Tree Sculpted Octagonal Platter - 14-Inch Holiday Serving Platter for Meats, Cheeses, and Desserts - Dis\""
+ },
+ {
+  "name": "Christmas Tree Sculpted Footed Small Bowl",
+  "collection": "Sculpted/Figural",
+  "type": "Bowl",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/12/6acd8d1f105c5899cd34a5ed/l_6acd8d1f221dcb747d527fa1.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Sculpted-Footed-Small-Bowl-6acd8d1f105c5899cd34a5ed",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree Sculpted Footed Small Bowl\""
+ },
+ {
+  "name": "250th Anniversary Christmas Tree Figural Teapot",
+  "collection": "250th Anniversary",
+  "type": "Teapot",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-250th-Anniversary-Edition-Figural-Tea-Pot_639fd57b-0084-49c2-8520-ea94a7dc5715.98fe689d8e68511edf0d118c34e9bbe1.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-250th-Anniversary-Edition-Figural-Tea-Pot/465549522",
+  "status": "unknown",
+  "notes": "27 oz per resale listings; listing title: \"Spode Christmas Tree 250th Anniversary Edition Figural Tea Pot\""
+ },
+ {
+  "name": "250th Anniversary Christmas Tree Figural Trinket Jar",
+  "collection": "250th Anniversary",
+  "type": "Canister",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/30/6ae54fca1a24d0b74d9962d4/l_6ae54fca4985e8259df2a151.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Figural-Christmas-Tree-Candy-Trinket-Jar-6x35-250th-Anniversary-6ae54fca1a24d0b74d9962d4",
+  "status": "unknown",
+  "notes": "6\" x 3.5\"; listing title: \"Spode Figural Christmas Tree Candy Trinket Jar 6\"x3.5\"   250th Anniversary\""
+ },
+ {
+  "name": "Christmas Tree Peppermint Candy Basket",
+  "collection": "Peppermint",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Candy-Basket-6-5-Inch-Candy-Bowl-Peppermint-Handle-Holiday-Snacks-Earthenware-Christmas-Gift-Festive-Holiday-Serveware-Holiday-D_9ca4e552-156d-4251-99fa-109cda9494e4.f29c86352bc44a0f9dd65017a95a9a47.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Candy-Basket-6-5-Inch-Candy-Bowl-Peppermint-Handle-Holiday-Snacks-Earthenware-Christmas-Gift-Festive-Holiday-Serveware-Holiday-D/157318890",
+  "status": "unknown",
+  "notes": "6.5\" with peppermint handle; listing title: \"Spode Christmas Tree Candy Basket, 6.5-Inch Candy Bowl with Peppermint Handle for Holiday Snacks, Earthenware Christmas \""
+ },
+ {
+  "name": "Christmas Tree Peppermint Canapé Plate",
+  "collection": "Peppermint",
+  "type": "Accent Plate",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-Canape-Plates-Set-4-Peppermint-Design-Holiday-Dinner-Plate-Christmas-Serving-Plate-Festive-Appetizer-Plate-Seasonal-Decorative-P_36c4ccf4-ff0a-45ae-8b58-6160c77fe328.be10941095e002a6ae5a513cfb12b270.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-Canape-Plates-Set-4-Peppermint-Design-Holiday-Dinner-Plate-Christmas-Serving-Plate-Festive-Appetizer-Plate-Seasonal-Decorative-P/861506854",
+  "status": "unknown",
+  "notes": "sold as set of 4; listing title: \"Spode Christmas Tree Canape Plates - Set of 4 | Peppermint Design, Holiday Dinner Plate | Christmas Serving Plate & Fest\""
+ },
+ {
+  "name": "Christmas Tree Peppermint Teapot",
+  "collection": "Peppermint",
+  "type": "Teapot",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Christmas-Tree-32oz-Teapot-Earthenware-Festive-Holiday-Serveware-Peppermint-Motif-Brewing-Warm-Winter-Drinks-Holiday-Celebrations-Beautiful-Add_4938ada8-88fe-4d52-a97f-627cdf3656f4.57dc9c6dda60d11d0b030e1e285b48aa.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Christmas-Tree-32oz-Teapot-Earthenware-Festive-Holiday-Serveware-Peppermint-Motif-Brewing-Warm-Winter-Drinks-Holiday-Celebrations-Beautiful-Add/773323792",
+  "status": "unknown",
+  "notes": "32 oz; listing title: \"Spode Christmas Tree 32oz Teapot - Earthenware, Festive Holiday Serveware With Peppermint Motif, Brewing Warm Winter Dri\""
+ },
+ {
+  "name": "Christmas Tree Peppermint Cake Plate & Server Set",
+  "collection": "Peppermint",
+  "type": "Cake Stand",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/08/6aa04b73b9dd70e30d4aaf75/l_6aa04b7a7e297bc9acc9e583.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Peppermint-Cake-Plate-and-Server-Set-Like-New-6aa04b73b9dd70e30d4aaf75",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree Peppermint Cake Plate and Server Set, Like New\""
+ },
+ {
+  "name": "Christmas Tree Peppermint Chamberstick",
+  "collection": "Peppermint",
+  "type": "Candle/Decor",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2025/12/02/692fa2302fa054d1032df86d/l_692fa23bfe4c682780099da3.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Peppermint-Chamberstick-Candle-Holder-692fa2302fa054d1032df86d",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree Peppermint Chamberstick Candle Holder\""
+ },
+ {
+  "name": "Christmas Tree Peppermint Oval Platter",
+  "collection": "Peppermint",
+  "type": "Platter",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2024/12/30/6773428c775caf357313e138/l_677342e9d3309faf7bdb522d.jpg",
+  "source_url": "https://poshmark.com/listing/NWT-Spode-Christmas-Tree-Oval-Peppermint-Platter-6773428c775caf357313e138",
+  "status": "unknown",
+  "notes": "listing title: \"NWT - Spode Christmas Tree Oval Peppermint Platter\""
+ },
+ {
+  "name": "Christmas Tree Holly Cereal Bowl",
+  "collection": "Holly",
+  "type": "Bowl",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2024/04/09/661602a0fbae95669b46dc4d/l_661602a21546000ee1d6a9e1.jpeg",
+  "source_url": "https://poshmark.com/listing/SET-Of-4-SPODE-CHRISTMAS-TREE-HOLLY-65-CEREAL-BOWLS-WRED-TRIM-HTF-NWT-661602a0fbae95669b46dc4d",
+  "status": "unknown",
+  "notes": "6.5\"; red trim; listing title: \"SET Of 4 SPODE CHRISTMAS TREE HOLLY 6.5\" CEREAL BOWLS W/RED TRIM HTF NWT\""
+ },
+ {
+  "name": "Christmas Tree Holly Square Scalloped Salad Plate",
+  "collection": "Holly",
+  "type": "Salad/Dessert Plate",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/10/6aa3536a05ce57a98cae63d0/l_6aa3537dc6a0b3c3d114d811.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Square-Scalloped-Ceramic-Salad-Plate-9Holly-Green-Trim-New-6aa3536a05ce57a98cae63d0",
+  "status": "unknown",
+  "notes": "9\" square scalloped, holly, green trim; listing title: \"Spode Christmas Tree Square Scalloped Ceramic Salad Plate 9”Holly Green Trim New\""
+ },
+ {
+  "name": "Christmas Tree Village Train Station Cookie Jar",
+  "collection": "Village",
+  "type": "Cookie Jar",
+  "sku": null,
+  "image_url": "https://chairish-prod.freetls.fastly.net/image/product/master/de6f6a47-7b02-4f01-9b53-4b026b234407/2002-spode-christmas-tree-village-train-station-figural-cookie-jar-nib-5166?aspect=fit&width=640&height=640",
+  "source_url": "https://www.chairish.com/product/14249515/2002-spode-christmas-tree-village-train-station-figural-cookie-jar-nib",
+  "status": "discontinued",
+  "notes": "2002; listing title: \"2002 Spode Christmas Tree Village Train Station Figural Cookie Jar, Nib\""
+ },
+ {
+  "name": "Christmas Tree Village Hall Figural Teapot",
+  "collection": "Village",
+  "type": "Teapot",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/21/6ad9669280cb08264a97bfb8/l_6ad966938091ef3c4f1cea1a.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Village-Hall-Figural-Ceramic-Teapot-w-Lid-2002-6ad9669280cb08264a97bfb8",
+  "status": "discontinued",
+  "notes": "2002; listing title: \"Spode Christmas Tree Village Hall Figural Ceramic Teapot w/ Lid 2002\""
+ },
+ {
+  "name": "Christmas Tree Sweet Shop Votive Candle Holder",
+  "collection": "Village",
+  "type": "Candle/Decor",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/30/6ae54bd1cbbea56e7d5e29b6/l_6ae54bd14fcf2668fc576757.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-7-Sweet-Shop-Votive-Candle-Holder-Handpainted-Ceramic-Box-6ae54bd1cbbea56e7d5e29b6",
+  "status": "discontinued",
+  "notes": "7\"; listing title: \"Spode Christmas Tree 7\" Sweet Shop Votive Candle Holder Handpainted Ceramic Box\""
+ },
+ {
+  "name": "Spode Tree Red Wastebasket (Avanti)",
+  "collection": "Classic",
+  "type": "Other",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Avanti-Holiday-Spode-Tree-Red-Wastebasket_6c41fd7a-4951-49a3-b7e2-4b0e84aa6c88_1.59e6fdf470477d5d9eea08f8b2c0d5ae.jpeg",
+  "source_url": "https://www.walmart.com/ip/Avanti-Holiday-Spode-Tree-Red-Wastebasket/325348441",
+  "status": "unknown",
+  "notes": "licensed Avanti bath line; listing title: \"Avanti Holiday Spode Tree Red Wastebasket\""
+ },
+ {
+  "name": "Spode Tree Red Soap Dish (Avanti)",
+  "collection": "Classic",
+  "type": "Other",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Avanti-Holiday-Spode-Tree-Red-Soap-Dish_1313451a-aac5-4b94-8873-2547e2724f7b_1.97e24aabdfdd1c3fb4586092f55fc516.jpeg",
+  "source_url": "https://www.walmart.com/ip/Avanti-Holiday-Spode-Tree-Red-Soap-Dish/297709951",
+  "status": "unknown",
+  "notes": "licensed Avanti bath line; listing title: \"Avanti Holiday Spode Tree Red Soap Dish\""
+ },
+ {
+  "name": "Spode Tree Red Toothbrush Holder (Avanti)",
+  "collection": "Classic",
+  "type": "Other",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Avanti-Holiday-Spode-Tree-Red-Toothbrush-Holder_97a3015e-8660-40de-911b-4b7e1c7e9b5e_1.78206cbb64a8eae423a9491167e8d707.jpeg",
+  "source_url": "https://www.walmart.com/ip/Avanti-Holiday-Spode-Tree-Red-Toothbrush-Holder/962252956",
+  "status": "unknown",
+  "notes": "licensed Avanti bath line; listing title: \"Avanti Holiday Spode Tree Red Toothbrush Holder\""
+ },
+ {
+  "name": "Spode Tree Red Tray (Avanti)",
+  "collection": "Classic",
+  "type": "Other",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Tree-Red-Tray_6b8afed3-a287-47d8-a919-4885d13fafaa_1.51adc3f2d073fb5158dea0c10a6d0a04.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Tree-Red-Tray/842390334",
+  "status": "unknown",
+  "notes": "licensed Avanti bath line (assumed); listing title: \"Spode Tree Red Tray\""
+ },
+ {
+  "name": "Spode Tree Red Jar (Avanti)",
+  "collection": "Classic",
+  "type": "Other",
+  "sku": null,
+  "image_url": "https://i5.walmartimages.com/seo/Spode-Tree-Red-Jar_c1cd164e-dada-42bc-9626-b6226ec46110.0df7625c286464e4c31e8048f13264fb.jpeg",
+  "source_url": "https://www.walmart.com/ip/Spode-Tree-Red-Jar/354450505",
+  "status": "unknown",
+  "notes": "licensed Avanti bath line (assumed); listing title: \"Spode Tree Red Jar\""
+ },
+ {
+  "name": "Christmas Tree Coffee Pot",
+  "collection": "Classic",
+  "type": "Teapot",
+  "sku": null,
+  "image_url": null,
+  "source_url": "https://www.chairish.com/product/36745032/1980s-spode-christmas-tree-ceramic-coffee-pot-lid",
+  "status": "discontinued",
+  "notes": "1980s; listing title: \"1980s Spode \\u201cChristmas Tree\\u201d Ceramic Coffee Pot & Lid\""
+ },
+ {
+  "name": "Christmas Tree Covered Vegetable Dish",
+  "collection": "Classic",
+  "type": "Serving Bowl",
+  "sku": null,
+  "image_url": "https://chairish-prod.freetls.fastly.net/image/product/master/e186839d-593b-4eff-b713-94dc629cfa61/1970s-spode-christmas-tree-pattern-lidded-bowl-made-in-england-0001?aspect=fit&width=640&height=640",
+  "source_url": "https://www.chairish.com/product/12408819/1970s-spode-christmas-tree-pattern-lidded-bowl-made-in-england",
+  "status": "discontinued",
+  "notes": "1970s lidded bowl; listing title: \"1970s Spode Christmas Tree Pattern Lidded Bowl Made in England\""
+ },
+ {
+  "name": "Christmas Tree Egg Cup",
+  "collection": "Classic",
+  "type": "Other",
+  "sku": null,
+  "image_url": null,
+  "source_url": "https://www.chairish.com/product/31109088/spode-christmas-tree-pattern-holly-berries-egg-cups-england-a-pair",
+  "status": "discontinued",
+  "notes": "1980s, holly & berries; listing title: \"1980s Spode Christmas Tree Pattern Holly & Berries Egg Cups England - a Pair\""
+ },
+ {
+  "name": "Christmas Tree Soup Tureen",
+  "collection": "Classic",
+  "type": "Serving Bowl",
+  "sku": null,
+  "image_url": "https://chairish-prod.freetls.fastly.net/image/product/master/d2cc834e-e31f-4935-b3fb-f8fc64a2712c/1990s-spode-christmas-tree-ceramic-soup-tureen-3556?aspect=fit&width=640&height=640",
+  "source_url": "https://www.chairish.com/product/23452595/1990s-spode-christmas-tree-ceramic-soup-tureen",
+  "status": "discontinued",
+  "notes": "1990s; listing title: \"1990s Spode Christmas Tree Ceramic Soup Tureen\""
+ },
+ {
+  "name": "Christmas Tree 14 Inch Crudité Server",
+  "collection": "Classic",
+  "type": "Serving Bowl",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/26/6ab7e60f0710215654aee15a/l_6ab7e6857e297be60dda2a89.jpeg",
+  "source_url": "https://poshmark.com/listing/Vintage-Spode-Christmas-Tree-14-Chip-Dip-Platter-Holly-Mistletoe-Star-Border-6ab7e60f0710215654aee15a",
+  "status": "discontinued",
+  "notes": "chip & dip / crudite platter with holly-mistletoe-star border; listing title: \"Vintage Spode Christmas Tree 14\" Chip & Dip Platter Holly Mistletoe Star Border\""
+ },
+ {
+  "name": "Christmas Tree Triangular Candy Dish",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://chairish-prod.freetls.fastly.net/image/product/master/afdd6bde-723e-440c-916e-c179bffe22f0/1990s-spode-christmas-tree-small-triangular-candy-dish-4975?aspect=fit&width=640&height=640",
+  "source_url": "https://www.chairish.com/product/37810935/1990s-spode-christmas-tree-small-triangular-candy-dish",
+  "status": "discontinued",
+  "notes": "listing title: \"1990s Spode Christmas Tree Small Triangular Candy Dish\""
+ },
+ {
+  "name": "Christmas Tree Triple Divided Candy Dish",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://chairish-prod.freetls.fastly.net/image/product/master/debf2ef7-fe1b-45bb-8015-785df01ea4c3/1990s-spode-christmas-tree-triple-divided-candycondiment-dish-4881?aspect=fit&width=640&height=640",
+  "source_url": "https://www.chairish.com/product/24195334/1990s-spode-christmas-tree-triple-divided-candycondiment-dish",
+  "status": "discontinued",
+  "notes": "listing title: \"1990s Spode Christmas Tree Triple Divided Candy/Condiment Dish\""
+ },
+ {
+  "name": "Christmas Tree 12 Inch Buffet Plate",
+  "collection": "Classic",
+  "type": "Charger",
+  "sku": null,
+  "image_url": "https://chairish-prod.freetls.fastly.net/image/product/master/92657585-f41b-400f-bcf0-6696b7b5791f/1990s-spode-christmas-tree-buffet-plates-3-pcs-6537?aspect=fit&width=640&height=640",
+  "source_url": "https://www.chairish.com/product/36702494/1990s-spode-christmas-tree-buffet-plates-3-pcs",
+  "status": "discontinued",
+  "notes": "1990s; listing title: \"1990s Spode Christmas Tree Buffet Plates - 3 pcs\""
+ },
+ {
+  "name": "Christmas Tree Cachepot",
+  "collection": "Classic",
+  "type": "Candle/Decor",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/03/6aea1dea13a64737beb957b9/l_6aea1e2356502bcb4b48e831.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Cachepot-White-Green-Holiday-Decor-6aea1dea13a64737beb957b9",
+  "status": "discontinued",
+  "notes": "also seen as \"Square Poinsettia Planter\" (Chairish); listing title: \"Spode Christmas Tree Cachepot White & Green Holiday Decor\""
+ },
+ {
+  "name": "Christmas Tree Frosted Tumbler",
+  "collection": "Classic",
+  "type": "Drinkware/Glassware",
+  "sku": null,
+  "image_url": "https://chairish-prod.freetls.fastly.net/image/product/master/9e3e9a5b-4921-4f6c-be61-ab3cda1de4b9/spode-christmas-tree-frosted-tumblers-set-of-4-8146?aspect=fit&width=640&height=640",
+  "source_url": "https://www.chairish.com/product/22345238/spode-christmas-tree-frosted-tumblers-set-of-4",
+  "status": "discontinued",
+  "notes": "set of 4; listing title: \"Spode Christmas Tree Frosted Tumblers- Set of 4\""
+ },
+ {
+  "name": "Christmas Tree Mini Juice Glass",
+  "collection": "Classic",
+  "type": "Drinkware/Glassware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/02/6ae8ca2bbbf961b30c9804ab/l_6ae8ca2d8091ef7ea012ce43.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Mini-Juice-Or-Shot-Glass-1991-2-oz-Vintage-6ae8ca2bbbf961b30c9804ab",
+  "status": "discontinued",
+  "notes": "2 oz, 1991; listing title: \"Spode Christmas Tree Mini Juice Or Shot Glass 1991 2 oz Vintage\""
+ },
+ {
+  "name": "Christmas Tree Gingerbread House Candy Jar",
+  "collection": "Classic",
+  "type": "Canister",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2023/05/31/6477f34eb2780cec01c6d8aa/l_6477f34f678c3adf6bae180e.jpeg",
+  "source_url": "https://poshmark.com/listing/SPODE-CHRISTMAS-TREE-GINGERBREAD-HOUSE-CANDY-JAR-WLID-7-1003E-6477f34eb2780cec01c6d8aa",
+  "status": "discontinued",
+  "notes": "7\"; listing title: \"SPODE CHRISTMAS TREE GINGERBREAD HOUSE CANDY JAR W/LID - 7\"  1003E\""
+ },
+ {
+  "name": "Christmas Tree Nutcracker Peppermint Cookie Jar",
+  "collection": "Classic",
+  "type": "Cookie Jar",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/06/27/6a4063011986c27a96180b63/l_6a4063011986c27a96180b64.jpg",
+  "source_url": "https://poshmark.com/listing/SPODE-CHRISTMAS-TREE-NUTCRACKER-PEPPERMINT-COOKIE-JAR-HAND-PAINTED-6a4063011986c27a96180b63",
+  "status": "discontinued",
+  "notes": "listing title: \"SPODE CHRISTMAS TREE NUTCRACKER PEPPERMINT COOKIE JAR HAND PAINTED\""
+ },
+ {
+  "name": "Christmas Tree Toys Around the Tree Cookie Jar",
+  "collection": "Classic",
+  "type": "Cookie Jar",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2025/05/27/68357f1a28e1e0c49a743f47/l_68357f1e5df8e7e8dc5dff43.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Hand-Painted-Cookie-Jar-NIB-ToysAround-The-Tree-68357f1a28e1e0c49a743f47",
+  "status": "discontinued",
+  "notes": "listing title: \"Spode Christmas Tree Hand Painted Cookie Jar NIB “Toys Around The Tree”\""
+ },
+ {
+  "name": "Christmas Tree Toys Around the Tree Cookie Plate",
+  "collection": "Classic",
+  "type": "Accent Plate",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/01/6ae7a7ee17a3c42fd5ac483d/l_6ae7a7ee17a3c42fd5ac483e.jpg",
+  "source_url": "https://poshmark.com/listing/SPODE-Christmas-Tree-Cookie-Plate-Toys-Around-The-Tree-6ae7a7ee17a3c42fd5ac483d",
+  "status": "discontinued",
+  "notes": "3D cookie platter ~11.25\"; listing title: \"SPODE Christmas Tree Cookie Plate Toys Around The Tree\""
+ },
+ {
+  "name": "Christmas Tree Teddy Bear Gifts Candy Jar",
+  "collection": "Classic",
+  "type": "Canister",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/08/11/6a7bde85ead45f9a6acdbfe2/l_6a7bde8a7625b1586144c2f8.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Teddy-Bear-Gifts-Ceramic-Cookie-Candy-Jar-wLid-7-6a7bde85ead45f9a6acdbfe2",
+  "status": "discontinued",
+  "notes": "7\"; listing title: \"Spode Christmas Tree Teddy Bear Gifts Ceramic Cookie Candy Jar w/Lid 7\"\""
+ },
+ {
+  "name": "Christmas Tree Santa's Pouch Candy Dish",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/01/6ae7713464865503b314bc2f/l_6ae7713583b26ca53955b8b7.jpeg",
+  "source_url": "https://poshmark.com/listing/SPODE-HAND-PAINTED-CHRISTMAS-TREE-PATTERN-SANTAS-POUCH-CANDY-DISH-6ae7713464865503b314bc2f",
+  "status": "discontinued",
+  "notes": "listing title: \"SPODE HAND PAINTED \"CHRISTMAS TREE\" PATTERN SANTA'S POUCH CANDY DISH\""
+ },
+ {
+  "name": "Christmas Tree Votive Cup & Candle",
+  "collection": "Classic",
+  "type": "Candle/Decor",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/16/6aab1d829f3194258d60bca0/l_6aab1dd656502b249be997cd.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Votive-Cup-and-Candle-Set-England-S3324-S-Holiday-Decor-6aab1d829f3194258d60bca0",
+  "status": "discontinued",
+  "notes": "backstamp S3324-S/U; listing title: \"Spode Christmas Tree Votive Cup and Candle Set England S3324 S Holiday Decor\""
+ },
+ {
+  "name": "Christmas Tree Chamberstick",
+  "collection": "Classic",
+  "type": "Candle/Decor",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/27/6ab936a9ed364edfa4ffaa89/l_6ab936aa4985e8b1d754b651.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Chamberstick-Candle-Holders-Set-of-2-England-S3324-C-6ab936a9ed364edfa4ffaa89",
+  "status": "discontinued",
+  "notes": "ring-handle candle holder; listing title: \"Spode Christmas Tree Chamberstick Candle Holders Set of 2 England S3324 C\""
+ },
+ {
+  "name": "Christmas Tree Candlestick",
+  "collection": "Classic",
+  "type": "Candle/Decor",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/02/6ae927ea3559d542ba361c61/l_6ae927eb24cc876b13e9ac73.jpg",
+  "source_url": "https://poshmark.com/listing/Vintage-Spode-Christmas-Tree-Candlestick-Holders-Pair-England-S3324-6ae927ea3559d542ba361c61",
+  "status": "discontinued",
+  "notes": "listing title: \"Vintage Spode Christmas Tree Candlestick Holders Pair England S3324\""
+ },
+ {
+  "name": "Christmas Tree Mini Candle Holders",
+  "collection": "Classic",
+  "type": "Candle/Decor",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2025/12/13/693da391f3d62477a31fa73f/l_693da3927ac6293661172d00.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Mini-Candle-Holders-Vintage-Box-Set-of-4-693da391f3d62477a31fa73f",
+  "status": "discontinued",
+  "notes": "boxed set of 4; listing title: \"Spode Christmas Tree Mini Candle Holders Vintage Box Set of 4\""
+ },
+ {
+  "name": "Christmas Tree Santa Chimney Taper Candle Holder",
+  "collection": "Classic",
+  "type": "Candle/Decor",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/11/6aa40745d776bdf8738f74ae/l_6aa4074619212559f8205f45.jpg",
+  "source_url": "https://poshmark.com/listing/Vintage-Spode-Santa-Christmas-Tree-Chimney-Taper-Candle-Holder-5-12-Read-6aa40745d776bdf8738f74ae",
+  "status": "discontinued",
+  "notes": "5.5\"; listing title: \"Vintage Spode Santa Christmas Tree Chimney Taper Candle Holder 5 1/2\" Read\""
+ },
+ {
+  "name": "Christmas Tree Gift Bag Candle Holder",
+  "collection": "Classic",
+  "type": "Candle/Decor",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/03/6aea43fcad242ad695fa9de4/l_6aea440c44743385e7f53505.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Gift-Bag-Candle-Holder-NWT-6aea43fcad242ad695fa9de4",
+  "status": "discontinued",
+  "notes": "listing title: \"Spode Christmas Tree Gift Bag Candle Holder NWT\""
+ },
+ {
+  "name": "Christmas Tree Pierced Friendship Ball",
+  "collection": "Classic",
+  "type": "Candle/Decor",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/13/6aa72b9e046d1f5e0d86e51a/l_6aa72bf87625b1513cfc8847.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Pierced-Friendship-Ball-S3324A9-Candle-Holderpotpourri-6aa72b9e046d1f5e0d86e51a",
+  "status": "discontinued",
+  "notes": "candle holder / potpourri, backstamp S3324-A9; listing title: \"Spode Christmas Tree Pierced  Friendship  Ball #S3324-A9 Candle Holder/potpourri\""
+ },
+ {
+  "name": "Christmas Tree Pierced Potpourri Ginger Jar",
+  "collection": "Classic",
+  "type": "Candle/Decor",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/29/6abc2fb54adcb390853e00cd/l_6abc304ce912b3cf575a89cc.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Vintage-2005-Christmas-Tree-6-Pierced-Potpourri-Ginger-Jar-EUC-in-Box-6abc2fb54adcb390853e00cd",
+  "status": "discontinued",
+  "notes": "6\", 2005; listing title: \"Spode Vintage 2005 Christmas Tree 6\" Pierced Potpourri Ginger Jar EUC in Box\""
+ },
+ {
+  "name": "Christmas Tree Small Ginger Jar",
+  "collection": "Classic",
+  "type": "Canister",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/30/6abd41cc046d1f60e7e2ce2d/l_6abd424f32f934ad18fe7ecb.jpg",
+  "source_url": "https://poshmark.com/listing/Vtg-1999-Spode-Christmas-Tree-Sm-Canister-Ginger-Jar-MADE-IN-ENGLAND-NWOB-6abd41cc046d1f60e7e2ce2d",
+  "status": "discontinued",
+  "notes": "1999; listing title: \"Vtg 1999 Spode Christmas Tree Sm Canister Ginger Jar MADE IN ENGLAND NWOB\""
+ },
+ {
+  "name": "Christmas Tree Spill Vase",
+  "collection": "Classic",
+  "type": "Candle/Decor",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/31/6ae5f649260ae25759e9cbb1/l_6ae5f77a1921258703a33f3b.jpeg",
+  "source_url": "https://poshmark.com/listing/Vintage-Spode-Christmas-tree-porcelain-spill-vase-England-55-inches-S-3324-L-6ae5f649260ae25759e9cbb1",
+  "status": "discontinued",
+  "notes": "5.5\", backstamp S3324-L; listing title: \"Vintage Spode Christmas tree porcelain spill vase, England 5.5 inches S 3324 –L\""
+ },
+ {
+  "name": "Christmas Tree Nut Bowl",
+  "collection": "Classic",
+  "type": "Bowl",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/19/6ad601daed364ed207257e85/l_6ad601daed364ed207257e86.jpeg",
+  "source_url": "https://poshmark.com/listing/Vintage-Spode-Christmas-Tree-Nut-Bowl-W-Box-55-Made-in-England-S3324-6ad601daed364ed207257e85",
+  "status": "discontinued",
+  "notes": "5.5\"; listing title: \"Vintage Spode Christmas Tree Nut Bowl W/ Box 5.5\" Made in England‎ S3324\""
+ },
+ {
+  "name": "Christmas Tree Teddy Bear Teapot",
+  "collection": "Classic",
+  "type": "Teapot",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/07/6a9f1e4f3dfc00a09c3a70af/l_6a9f1e4fadedd14a879f561f.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Teddy-Bear-Teapot-9-With-Original-Box-6a9f1e4f3dfc00a09c3a70af",
+  "status": "discontinued",
+  "notes": "9\" hand-painted figural; listing title: \"Spode Christmas Tree Teddy Bear Teapot 9\" With Original Box\""
+ },
+ {
+  "name": "Christmas Tree Teapot Night Light",
+  "collection": "Classic",
+  "type": "Other",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/22/6ada4e1b32f934024b2ee918/l_6ada4e26221dcb4d176bba7a.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-RARE-Teapot-PlugIn-Night-Light-White-with-Green-Trim-6ada4e1b32f934024b2ee918",
+  "status": "discontinued",
+  "notes": "listing title: \"Spode Christmas Tree RARE Teapot Plug-In Night Light - White with Green Trim\""
+ },
+ {
+  "name": "Christmas Tree Enamel Tea Kettle",
+  "collection": "Classic",
+  "type": "Other",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/03/6aea4aadd95f1d658e6f172e/l_6aea4aad728253d450174035.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Enamel-Tea-Kettle-Cream-Green-Trim-Stovetop-Pot-Holiday-6aea4aadd95f1d658e6f172e",
+  "status": "discontinued",
+  "notes": "stovetop enamel kettle (licensed); listing title: \"Spode Christmas Tree Enamel Tea Kettle Cream Green Trim Stovetop Pot Holiday,\""
+ },
+ {
+  "name": "Christmas Tree Tea Cosy",
+  "collection": "Classic",
+  "type": "Linens",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/03/6aea44a38b21c8e59a01e036/l_6aea44a4046d1fa1c03e1664.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Tea-Cosy-Made-in-England-6aea44a38b21c8e59a01e036",
+  "status": "discontinued",
+  "notes": "listing title: \"Spode Christmas Tree Tea Cosy, Made in England\""
+ },
+ {
+  "name": "Christmas Tree Cloth Napkin",
+  "collection": "Classic",
+  "type": "Linens",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/01/6abf45733fce2bedaaf306ad/l_6abf46cfe912b3aca4d01584.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Napkins-Set-of-4-Cotton-Made-in-England-NIP-Vintage-6abf45733fce2bedaaf306ad",
+  "status": "discontinued",
+  "notes": "cotton, made in England; set of 4; listing title: \"Spode Christmas Tree Napkins Set of 4 Cotton Made in England NIP Vintage\""
+ },
+ {
+  "name": "Christmas Tree Woven Tapestry Wall Hanging",
+  "collection": "Classic",
+  "type": "Other",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/15/6ad1987f571a7e0e3266ac5a/l_6ad1987f571a7e0e3266ac5b.jpg",
+  "source_url": "https://poshmark.com/listing/Vintage-Spode-Christmas-Tree-Woven-Tapestry-Wall-Hanging-w-Dowel-27-x-33-6ad1987f571a7e0e3266ac5a",
+  "status": "discontinued",
+  "notes": "27 x 33\"; listing title: \"Vintage Spode Christmas Tree Woven Tapestry Wall Hanging w/ Dowel 27 x 33\""
+ },
+ {
+  "name": "Christmas Tree Playing Card Holder",
+  "collection": "Classic",
+  "type": "Other",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/14/6aa89ee98091eff718b46dd4/l_6aa89f087aaa648c13380c1e.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-GreenTrim-Christmas-Tree-Playing-Card-Deck-Holder-6aa89ee98091eff718b46dd4",
+  "status": "discontinued",
+  "notes": "listing title: \"Spode Green-Trim Christmas Tree Playing Card Deck Holder\""
+ },
+ {
+  "name": "Christmas Tree Tom & Jerry Mug",
+  "collection": "Classic",
+  "type": "Mug",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/29/6ae333081a24d008db5ab31e/l_6ae3330c1921258df486f466.jpeg",
+  "source_url": "https://poshmark.com/listing/Vintage-Spode-Christmas-Tree-Tom-Jerry-Mugs-Set-of-4-England-Original-Box-6ae333081a24d008db5ab31e",
+  "status": "discontinued",
+  "notes": "listing title: \"Vintage Spode Christmas Tree Tom & Jerry Mugs Set of 4 England Original Box\""
+ },
+ {
+  "name": "Christmas Tree Tankard Mug",
+  "collection": "Classic",
+  "type": "Mug",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/05/6ac43e0d181de192c73bfc6f/l_6ac43ebba1bf20204ccf3c7b.jpg",
+  "source_url": "https://poshmark.com/listing/VTG-SPODE-Christmas-Tree-Tankard-Mug-England-Collectible-6ac43e0d181de192c73bfc6f",
+  "status": "discontinued",
+  "notes": "listing title: \"VTG SPODE Christmas Tree Tankard Mug England Collectible\""
+ },
+ {
+  "name": "Christmas Tree Sentiment Mug & Tin",
+  "collection": "Classic",
+  "type": "Mug",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/01/6abec66f1696a7a647bb2048/l_6abeca57ebb1a55dfeb4e83d.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Love-with-all-the-trimmings-Sentiment-Mug-Tin-Can-6abec66f1696a7a647bb2048",
+  "status": "unknown",
+  "notes": "\"Love with all the trimmings\" mug + tin; listing title: \"Spode Christmas Tree \"Love with all the trimmings\" Sentiment Mug & Tin Can\""
+ },
+ {
+  "name": "Christmas Tree Covered Cheese Dish",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/03/6ae9c56300a65a5444d9b703/l_6ae9c56300a65a5444d9b704.jpg",
+  "source_url": "https://poshmark.com/listing/Vintage-1986-Spode-Christmas-Tree-Covered-Cheese-Dish-Tray-England-Lid-Stain-6ae9c56300a65a5444d9b703",
+  "status": "discontinued",
+  "notes": "1986; listing title: \"Vintage 1986 Spode Christmas Tree Covered Cheese Dish & Tray England (Lid Stain)\""
+ },
+ {
+  "name": "Christmas Tree Gravy Boat with Attached Stand",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/09/6ac9657af93b2a3f0fccb1de/l_6ac9657af93b2a3f0fccb1e0.jpg",
+  "source_url": "https://poshmark.com/listing/Vintage-1976-Spode-Christmas-Tree-Gravy-Boat-Attached-Stand-Made-In-England-EUC-6ac9657af93b2a3f0fccb1de",
+  "status": "discontinued",
+  "notes": "1976; older one-piece version of the sauce boat; listing title: \"Vintage 1976 Spode Christmas‎ Tree Gravy Boat Attached Stand Made In England EUC\""
+ },
+ {
+  "name": "Christmas Tree Marmalade Jar",
+  "collection": "Classic",
+  "type": "Canister",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/08/13/6a7e0ee7105c58f0ca8fb31e/l_6a7e1175c9ddec00365b02de.jpeg",
+  "source_url": "https://poshmark.com/listing/Vintage-1980s-SPODE-CHRISTMAS-TREE-Porcelain-Marmalade-Jar-with-Lid-New-in-Box-6a7e0ee7105c58f0ca8fb31e",
+  "status": "discontinued",
+  "notes": "1980s; listing title: \"Vintage 1980's SPODE CHRISTMAS TREE Porcelain Marmalade Jar with Lid  New in Box\""
+ },
+ {
+  "name": "Christmas Tree Oval Vegetable Baker",
+  "collection": "Classic",
+  "type": "Bakeware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/08/31/6a95b98c848748111b058387/l_6a9f40b870333f2c3cd2fc53.jpeg",
+  "source_url": "https://poshmark.com/listing/Vintage-Spode-Christmas-Tree-Porcelain-China-Oval-Vegetable-Baker-Dish-With-Box-6a95b98c848748111b058387",
+  "status": "discontinued",
+  "notes": "listing title: \"Vintage Spode Christmas Tree Porcelain China Oval Vegetable Baker Dish With Box\""
+ },
+ {
+  "name": "Christmas Tree Soufflé Dish",
+  "collection": "Classic",
+  "type": "Bakeware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/11/6acbb9ce1b53fe9900c7f6ba/l_6acbbb164adcb3526d06c7ef.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Souffle-Dish-6acbb9ce1b53fe9900c7f6ba",
+  "status": "discontinued",
+  "notes": "listing title: \"Spode Christmas Tree Souffle Dish\""
+ },
+ {
+  "name": "Christmas Tree Windsor Cream Jug",
+  "collection": "Classic",
+  "type": "Pitcher",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/02/6ae8f813b9dd7088b72c6920/l_6ae8f874da3eebcb11f4ce75.jpg",
+  "source_url": "https://poshmark.com/listing/Vintage-Spode-Christmas-Tree-Windsor-Cream-Jug-475-Made-in-England-S3324Z-6ae8f813b9dd7088b72c6920",
+  "status": "discontinued",
+  "notes": "4.75\", backstamp S3324-Z; listing title: \"Vintage Spode Christmas Tree Windsor Cream Jug 4.75\" Made in England S3324-Z\""
+ },
+ {
+  "name": "Christmas Tree 24 oz Jug",
+  "collection": "Classic",
+  "type": "Pitcher",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/22/6ada247d09df517384afd84f/l_6ada247eda3eebaf7d4fe71b.jpg",
+  "source_url": "https://poshmark.com/listing/Vintage-Spode-Christmas-Tree-Pattern-Pitcher-Jug-Creamer-24-oz-S3324U-475-T-6ada247d09df517384afd84f",
+  "status": "discontinued",
+  "notes": "backstamp S3324-U; listing title: \"Vintage Spode Christmas Tree Pattern Pitcher Jug Creamer 24 oz. S3324-U 4.75\" T\""
+ },
+ {
+  "name": "Christmas Tree Ashtray",
+  "collection": "Classic",
+  "type": "Other",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/29/6abbffe398bbf3496cbee12f/l_6abbffe4b3acde59b5d65690.jpg",
+  "source_url": "https://poshmark.com/listing/Vintage-Spode-England-Ashtray-Christmas-Tree-Square-Green-Trim-England-Size-45-6abbffe398bbf3496cbee12f",
+  "status": "discontinued",
+  "notes": "4.5\" square; listing title: \"Vintage Spode England Ashtray Christmas Tree Square Green Trim England Size 4.5\"\""
+ },
+ {
+  "name": "Christmas Tree Soap Dish",
+  "collection": "Classic",
+  "type": "Other",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/23/6adbfbcdc107366721e0e131/l_6adbfbcf2313935cfb0a18b9.jpeg",
+  "source_url": "https://poshmark.com/listing/Vintage-Spode-Christmas-Tree-Soap-Dish-Holiday-Bathroom-Decor-Trinket-Tray-6adbfbcdc107366721e0e131",
+  "status": "discontinued",
+  "notes": "listing title: \"Vintage Spode Christmas Tree Soap Dish | Holiday Bathroom Decor & Trinket Tray\""
+ },
+ {
+  "name": "Christmas Tree 10 Inch Round Trivet",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/03/6ac1b4d20b34bb42f76f973a/l_6ac1b6929c93e0a4f9ded947.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-10-Round-Trivet-Casserole-Stand-Cork-Backed-Made-in-Englan-6ac1b4d20b34bb42f76f973a",
+  "status": "discontinued",
+  "notes": "cork backed; listing title: \"Spode Christmas Tree 10\" Round Trivet Casserole Stand Cork Backed Made in Englan\""
+ },
+ {
+  "name": "Christmas Tree 12 Inch Tin Tray",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/19/6aaf4ef1728253a801332c7f/l_6aaf4efd1b53feadf7bc77c2.jpg",
+  "source_url": "https://poshmark.com/listing/Two-Spode-GreenTrim-Christmas-Tree-Serving-Tin-Trays-12-Diameter-6aaf4ef1728253a801332c7f",
+  "status": "discontinued",
+  "notes": "metal tray, green trim; listing title: \"Two Spode Green-Trim Christmas Tree Serving Tin Trays -12” Diameter\""
+ },
+ {
+  "name": "Christmas Tree 10.5 Inch Tidbit Tray",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/15/6ad1a0437789ea8fea1345a4/l_6ad1a0441b53fed5c7528061.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Tidbit-Tray-Server-105in-Green-Trim-Good-S3324AO-Boxed-6ad1a0437789ea8fea1345a4",
+  "status": "discontinued",
+  "notes": "backstamp S3324-AO; listing title: \"Spode Christmas Tree Tidbit Tray Server 10.5in Green Trim Good S3324-AO Boxed\""
+ },
+ {
+  "name": "Christmas Tree Tunis Dessert Dish",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/27/6ab95f80de4883ad02f8a115/l_6ab95fae13a64716b0d2e73d.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Tunis-Dessert-Dish-with-Green-Trim-and-Multicolor-Tree-6ab95f80de4883ad02f8a115",
+  "status": "discontinued",
+  "notes": "listing title: \"Spode Christmas Tree Tunis Dessert Dish with Green Trim and Multicolor Tree\""
+ },
+ {
+  "name": "Christmas Tree Star-Shaped Dish",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://chairish-prod.freetls.fastly.net/image/product/master/0efed4d2-e4aa-4f0d-b9e4-16023752388c/spode-christmas-tree-star-shaped-serving-dish-3621?aspect=fit&width=640&height=640",
+  "source_url": "https://www.chairish.com/product/37810879/spode-christmas-tree-star-shaped-serving-dish",
+  "status": "discontinued",
+  "notes": "also seen as 12\" \"Star Bowl\" and \"L/S Star Dish\"; listing title: \"Spode Christmas Tree Star-Shaped Serving Dish\""
+ },
+ {
+  "name": "Christmas Tree Daisy Bowl",
+  "collection": "Classic",
+  "type": "Serving Bowl",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/21/6ad906e12800ac5dfeabc33d/l_6ad909b8c6a0b367896bea1d.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Daisy-Bowl-8-12-6ad906e12800ac5dfeabc33d",
+  "status": "discontinued",
+  "notes": "8.5\"; listing title: \"Spode Christmas Tree Daisy Bowl 8 1/2\"\""
+ },
+ {
+  "name": "Christmas Tree Embossed Scalloped Platter",
+  "collection": "Classic",
+  "type": "Platter",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/09/6ac89ad642b6ad4eaea77cc4/l_6ac89ade05ce578d80c1a05b.jpeg",
+  "source_url": "https://poshmark.com/listing/SpodeChristmasTreeEmbossedScallopedPlatterS3324A20NWT-6ac89ad642b6ad4eaea77cc4",
+  "status": "discontinued",
+  "notes": "backstamp S3324-A20; listing title: \"Spode Christmas Tree Embossed Scalloped Platter S3324-A20 NWT\""
+ },
+ {
+  "name": "Christmas Tree 12 Inch Scalloped Chop Plate",
+  "collection": "Classic",
+  "type": "Platter",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/16/6ad2f45976de0016568eb67b/l_6ad2f45976de0016568eb67c.jpg",
+  "source_url": "https://poshmark.com/listing/Vintage-English-Spode-Christmas-Tree-12-Scalloped-Chop-Round-Platter-S3324D-6ad2f45976de0016568eb67b",
+  "status": "discontinued",
+  "notes": "backstamp S3324D; listing title: \"Vintage English Spode Christmas Tree 12\" Scalloped‎ Chop Round Platter S3324D\""
+ },
+ {
+  "name": "Christmas Tree Fluted Oval Platter",
+  "collection": "Classic",
+  "type": "Platter",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/01/6a96f8cbdb9420d658d493d3/l_6a96f8cbdb9420d658d493d4.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Mint-Vintage-Collectible-Large-ScallopFluted-Oval-Platter-6a96f8cbdb9420d658d493d3",
+  "status": "discontinued",
+  "notes": "large and medium sizes seen; listing title: \"Spode Christmas Tree Mint Vintage Collectible Large Scallop/Fluted Oval Platter\""
+ },
+ {
+  "name": "Christmas Tree 12 Inch Round Platter",
+  "collection": "Classic",
+  "type": "Platter",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/08/6ac8298d80cb0852f6faf7c9/l_6ac8298e4941b5aeade1c26e.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-12-Round-Platter-White-Green-Glossy-Ceramic-S3324-M-6ac8298d80cb0852f6faf7c9",
+  "status": "discontinued",
+  "notes": "backstamp S3324 M; listing title: \"Spode Christmas Tree 12\" Round Platter White Green Glossy Ceramic S3324 M\""
+ },
+ {
+  "name": "Christmas Tree Triangle Serving Tray",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/21/6ad8b1d1cb00f3c1e5867669/l_6adabdd98925d34c1ec7e0ea.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Triangle-Serving-Tray-Platter-Green-Trim-England-S3324-6ad8b1d1cb00f3c1e5867669",
+  "status": "discontinued",
+  "notes": "listing title: \"Spode Christmas Tree Triangle Serving Tray Platter Green Trim England S3324\""
+ },
+ {
+  "name": "Christmas Tree Pierced Square Tray",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/04/6ac2b0be3fce2ba01687c5a0/l_6ac2b0bf70333f52fde7182e.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Pierced-Square-75-Tray-Plate-6ac2b0be3fce2ba01687c5a0",
+  "status": "discontinued",
+  "notes": "7.5\"; listing title: \"Spode Christmas Tree Pierced Square 7.5\" Tray Plate\""
+ },
+ {
+  "name": "Christmas Tree 9 Inch Pierced Oval Bowl",
+  "collection": "Classic",
+  "type": "Serving Bowl",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/17/6ad44c83046d1f3fb271d090/l_6ad44c83046d1f3fb271d091.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-9-Pierced-Oval-Serving-Bowl-Holiday-Entertaining-LIKE-NEW-6ad44c83046d1f3fb271d090",
+  "status": "unknown",
+  "notes": "9\"; listing title: \"Spode Christmas Tree 9\" Pierced Oval Serving Bowl Holiday Entertaining, LIKE NEW\""
+ },
+ {
+  "name": "Christmas Tree 9 Inch Embossed Oval Bowl",
+  "collection": "Classic",
+  "type": "Serving Bowl",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/17/6ad44c7383b26c94cf7d94ca/l_6ad44c7383b26c94cf7d94cb.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-9-Embossed-Oval-Serving-Bowl-Holiday-Entertaining-6ad44c7383b26c94cf7d94ca",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree 9\" Embossed Oval Serving Bowl Holiday Entertaining\""
+ },
+ {
+  "name": "Christmas Tree 8 Inch Round Fluted Dish",
+  "collection": "Classic",
+  "type": "Serving Bowl",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/20/6ad7f8ea7e297b9dc39f3124/l_6ad7f9169c93e0e3e67fa897.jpg",
+  "source_url": "https://poshmark.com/listing/NWT-Spode-Christmas-Tree-8-Inch-Round-Fluted-Dish-Bowl-NEW-IN-BOX-6ad7f8ea7e297b9dc39f3124",
+  "status": "unknown",
+  "notes": "listing title: \"NWT Spode Christmas Tree 8 Inch Round Fluted Dish / Bowl NEW IN BOX!\""
+ },
+ {
+  "name": "Christmas Tree Oval Nesting Bowls",
+  "collection": "Classic",
+  "type": "Serving Bowl",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/02/6abfdc5417a3c44d50301954/l_6abfdc5417a3c44d50301955.jpg",
+  "source_url": "https://poshmark.com/listing/SPODE-CHRISTMAS-TREE-NEW-SET-OF-2-OVAL-NESTING-BOWLS-HOME-HOLIDAY-DINING-6abfdc5417a3c44d50301954",
+  "status": "unknown",
+  "notes": "set of 2; listing title: \"SPODE CHRISTMAS TREE NEW SET OF 2 OVAL NESTING BOWLS HOME HOLIDAY DINING\""
+ },
+ {
+  "name": "Christmas Tree Pedestal Cake Stand",
+  "collection": "Classic",
+  "type": "Cake Stand",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/15/6ad11e7ebd7d006facc956c3/l_6ad11e7f7aaa6490a39b80db.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-10-34-Pedestal-Cake-Stand-S3324A1-England-Green-Trim-VTG-6ad11e7ebd7d006facc956c3",
+  "status": "discontinued",
+  "notes": "10.75\"; listing title: \"Spode Christmas Tree 10 3/4\" Pedestal Cake Stand S3324-A1 England Green Trim VTG\""
+ },
+ {
+  "name": "Christmas Tree 7 Inch Pedestal Plate",
+  "collection": "Classic",
+  "type": "Cake Stand",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/15/6aa9331a9c93e0e6c94ee7f6/l_6aa9331a9c93e0e6c94ee7f7.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Pedestal-Serving-Plate-in-Cream-with-Green-Trim-7-inch-6aa9331a9c93e0e6c94ee7f6",
+  "status": "discontinued",
+  "notes": "listing title: \"Spode Christmas Tree Pedestal Serving Plate in Cream with Green Trim 7 inch\""
+ },
+ {
+  "name": "Christmas Tree 13 Inch Sleigh Centerpiece",
+  "collection": "Classic",
+  "type": "Candle/Decor",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/28/6abaabcb260ae2deee3c75c0/l_6abaabcc56502b6578643b80.jpeg",
+  "source_url": "https://poshmark.com/listing/Vintage-Spode-Christmas-Tree-13-Large-Sleigh-Centerpiece-LS-6abaabcb260ae2deee3c75c0",
+  "status": "discontinued",
+  "notes": "may relate to Figural Sleigh 1794429 - verify; listing title: \"Vintage Spode Christmas Tree 13\" Large Sleigh Centerpiece L/S\""
+ },
+ {
+  "name": "Christmas Tree Bless This Home Oval Tray",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/15/6ad19c739fd4b97831c7a8db/l_6ad19c73b55223af3c79d054.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Platter-Bless-this-Home-Oval-Tray-12in-Green-Trim-Excellent-6ad19c739fd4b97831c7a8db",
+  "status": "discontinued",
+  "notes": "12\"; listing title: \"Spode Christmas Tree Platter Bless this Home Oval Tray 12in Green Trim Excellent\""
+ },
+ {
+  "name": "Christmas Tree Shortbread Cookie Tray",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/10/6aca8fe92e5e2ca822929474/l_6aca8fea1ae1ad413e596fdc.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Dessert-Platter-Christmas-Tree-Shortbread-Cookie-Tray-NEW-With-Box-6aca8fe92e5e2ca822929474",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Dessert Platter Christmas Tree Shortbread Cookie Tray NEW With Box\""
+ },
+ {
+  "name": "Christmas Tree Covered Trinket Box",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/02/6ac0643bd721deaacca7029c/l_6ac0643d1b53fe4bb0d2086b.jpeg",
+  "source_url": "https://poshmark.com/listing/Vintage-SPODE-Christmas-Tree-Covered-Candy-Dish-Trinket-Vanity-Jewelry-Gift-Box-6ac0643bd721deaacca7029c",
+  "status": "discontinued",
+  "notes": "listing title: \"Vintage SPODE Christmas Tree Covered Candy Dish Trinket Vanity Jewelry Gift Box\""
+ },
+ {
+  "name": "Christmas Tree Glass Salad Bowl",
+  "collection": "Classic",
+  "type": "Serving Bowl",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/27/6ae0ef1e18db022c7b541c04/l_6ae0ef209c93e0a50241bf7a.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Pattern-Glass-Salad-Bowl-Santa-Holiday-Gift-Original-box-H2-6ae0ef1e18db022c7b541c04",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree Pattern Glass Salad Bowl Santa Holiday Gift Original box H2\""
+ },
+ {
+  "name": "Christmas Tree Glass Jar",
+  "collection": "Classic",
+  "type": "Canister",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/06/11/6a2ad3e83eddeb07de9f90e6/l_6a2ad3ebb14a0684abf37f92.jpeg",
+  "source_url": "https://poshmark.com/listing/Vintage-Spode-Christmas-Tree-Glass-Jar-with-Lid-5-Tall-France-6a2ad3e83eddeb07de9f90e6",
+  "status": "discontinued",
+  "notes": "5\", made in France; listing title: \"Vintage Spode Christmas Tree Glass Jar with Lid 5\" Tall France\""
+ },
+ {
+  "name": "Christmas Tree Santa Canapé Knife",
+  "collection": "Classic",
+  "type": "Flatware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/19/6ad6ad9764399ba489a10d56/l_6ad6ad9764399ba489a10d57.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Canape-Knives-Set-of-3-Stainless-Steel-Santa-Spreaders-Box-6ad6ad9764399ba489a10d56",
+  "status": "unknown",
+  "notes": "Santa topper; boxed set of 3; listing title: \"Spode Christmas Tree Canape Knives Set of 3 Stainless‎ Steel Santa Spreaders Box\""
+ },
+ {
+  "name": "Christmas Tree Teapot Salt & Pepper",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/08/6ac7d725571a7e081497e63c/l_6ac7d766da3eeb10405bf9a4.jpg",
+  "source_url": "https://poshmark.com/listing/Vintage-Spode-Christmas-Tree-Teapot-Salt-Pepper-Shakers-S3324-Dillards-Tag-6ac7d725571a7e081497e63c",
+  "status": "discontinued",
+  "notes": "listing title: \"Vintage Spode Christmas Tree Teapot Salt & Pepper Shakers S3324 Dillards Tag\""
+ },
+ {
+  "name": "Christmas Tree Teddy Bear Salt & Pepper",
+  "collection": "Classic",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/01/6ae7374a7e297b6149597607/l_6ae7374f4985e871e200d4ef.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Teddy-Bear-Salt-Pepper-Shakers-Red-White-Gold-6ae7374a7e297b6149597607",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree Teddy Bear Salt & Pepper Shakers - Red, White, Gold\""
+ },
+ {
+  "name": "Christmas Tree Garland Bowl",
+  "collection": "Classic",
+  "type": "Bowl",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/08/6ac8223806c77393bd02cdab/l_6ac82239221dcb814d8f12e3.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Garland-Bowl-7-Salad-Cereal-6ac8223806c77393bd02cdab",
+  "status": "unknown",
+  "notes": "7\"; listing title: \"Spode Christmas Tree Garland Bowl 7” Salad Cereal\""
+ },
+ {
+  "name": "Christmas Tree Teleflora Pitcher Vase",
+  "collection": "Classic",
+  "type": "Candle/Decor",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/03/6aea3937014ea37e6ed782e2/l_6aea39389c93e0b781ea5a3c.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Teleflora-Gift-Pitcher-Vase-725-Holiday-6aea3937014ea37e6ed782e2",
+  "status": "unknown",
+  "notes": "7.25\"; Teleflora florist gift; listing title: \"Spode Christmas Tree Teleflora Gift Pitcher Vase 7.25\" Holiday\""
+ },
+ {
+  "name": "Christmas Tree Night Light",
+  "collection": "Classic",
+  "type": "Other",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/23/6adb5f7febb1a5d5bb0a406f/l_6adb5f92e625d202eeb1feb2.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-White-Ceramic-Christmas-Tree-Night-Light-with-Holiday-Tree-NIB-VTG-6adb5f7febb1a5d5bb0a406f",
+  "status": "discontinued",
+  "notes": "listing title: \"Spode White Ceramic Christmas Tree Night Light with Holiday Tree NIB VTG\""
+ },
+ {
+  "name": "Christmas Tree Miniature Teacup & Saucer Ornament",
+  "collection": "Ornaments",
+  "type": "Ornament",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/03/6ae9ea0906c773ed61880f85/l_6ae9ea0a70333fa868572926.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Mini-Teacup-Saucer-Ornament-Handcrafted-Holiday-Decor-6ae9ea0906c773ed61880f85",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree Mini Teacup Saucer Ornament Handcrafted Holiday Decor\""
+ },
+ {
+  "name": "Christmas Tree Our New Home Teapot Ornament 2003",
+  "collection": "Ornaments",
+  "type": "Ornament",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/01/6a969998f42df65c89867e22/l_6a969999de48835be8f421e0.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-2003-Christmas-Tree-Ornament-A-Spode-Our-New-Home-Teapot-6a969998f42df65c89867e22",
+  "status": "discontinued",
+  "notes": "listing title: \"Spode 2003 Christmas Tree Ornament, A Spode Our New Home Teapot\""
+ },
+ {
+  "name": "Christmas Tree Photo Frame Ornament",
+  "collection": "Ornaments",
+  "type": "Ornament",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/03/6aea29ae7625b1a1eb3b88f8/l_6aea29bd4eb36f55659683a2.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Photo-Frame-Ornament-White-Green-6aea29ae7625b1a1eb3b88f8",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree Photo Frame Ornament White & Green\""
+ },
+ {
+  "name": "Christmas Tree Bone China Bell-Shaped Flat Ornament",
+  "collection": "Ornaments",
+  "type": "Ornament",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2022/03/22/623ab8c67468d5eadd67d9d8/l_623aba253a0db9e28a403b1f.jpeg",
+  "source_url": "https://poshmark.com/listing/Vtg-Spode-Bell-Shaped-Flat-Bone-China-Christmas-Tree-Ornament-England-Box-623ab8c67468d5eadd67d9d8",
+  "status": "discontinued",
+  "notes": "listing title: \"Vtg Spode Bell Shaped Flat Bone China Christmas Tree Ornament England Box\""
+ },
+ {
+  "name": "Christmas Tree Double-Sided Round Flat Ornament",
+  "collection": "Ornaments",
+  "type": "Ornament",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/19/6ad602ff4765b0b9f88eb7da/l_6ad60306adedd1ffd2b17d77.jpeg",
+  "source_url": "https://poshmark.com/listing/VINTAGE-Spode-Porcelain-Christmas-Tree-DoubleSided-Round-Flat-Holiday-Ornament-6ad602ff4765b0b9f88eb7da",
+  "status": "discontinued",
+  "notes": "listing title: \"VINTAGE Spode Porcelain Christmas Tree Double-Sided Round Flat Holiday Ornament\""
+ },
+ {
+  "name": "Christmas Tree Puppy in Basket Ornament 2004",
+  "collection": "Ornaments",
+  "type": "Ornament",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/12/6acd0a6b30bbec7fb2c867a7/l_6acd145531f0f67e4129182f.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Puppy-in-Basket-Ornament-Porcelain-Dog-2004-Vintage-NIB-6acd0a6b30bbec7fb2c867a7",
+  "status": "discontinued",
+  "notes": "listing title: \"Spode Christmas Tree Puppy in Basket Ornament Porcelain Dog 2004 Vintage NIB\""
+ },
+ {
+  "name": "Christmas Tree Heart With Love Ornament 2001",
+  "collection": "Ornaments",
+  "type": "Ornament",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/27/6ae07cbd620952f0ae52f0d2/l_6ae07cbd620952f0ae52f0d3.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Ornament-Unisex-OS-White-Excellent-2001-Heart-With-Love-6ae07cbd620952f0ae52f0d2",
+  "status": "discontinued",
+  "notes": "listing title: \"Spode Christmas Tree Ornament Unisex OS White‎ Excellent 2001 Heart With Love\""
+ },
+ {
+  "name": "Christmas Tree Snow Globe Ornament",
+  "collection": "Ornaments",
+  "type": "Ornament",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/13/6ace4990b9dd701be521b9ea/l_6ace4990b9dd701be521b9eb.jpg",
+  "source_url": "https://poshmark.com/listing/Vintage-Spode-Christmas-Tree-Snow-Globe-Ornament-6ace4990b9dd701be521b9ea",
+  "status": "discontinued",
+  "notes": "listing title: \"Vintage Spode Christmas Tree Snow Globe Ornament\""
+ },
+ {
+  "name": "Christmas Tree Pomander Ornament",
+  "collection": "Ornaments",
+  "type": "Ornament",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/02/6ae8d7a7d776bdbcd668d219/l_6ae8d7a9adedd19ceb9baf5c.jpeg",
+  "source_url": "https://poshmark.com/listing/Vintage-Formalities-Spode-Christmas-Tree-Pomander-Ornament-Potpourri-6ae8d7a7d776bdbcd668d219",
+  "status": "discontinued",
+  "notes": "Formalities / potpourri; listing title: \"Vintage Formalities Spode Christmas Tree Pomander Ornament Potpourri\""
+ },
+ {
+  "name": "Christmas Tree Candle Ornament",
+  "collection": "Ornaments",
+  "type": "Ornament",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/08/23/6a8b91bb88963fd22778f0eb/l_6a8b91bb88963fd22778f0ec.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-tree-candle-ornament-6a8b91bb88963fd22778f0eb",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas tree candle ornament\""
+ },
+ {
+  "name": "Christmas Tree Snowman Bell Ornament",
+  "collection": "Ornaments",
+  "type": "Ornament",
+  "sku": null,
+  "image_url": "https://chairish-prod.freetls.fastly.net/image/product/master/9ad2e7a7-1383-42f1-9ba8-0a39aedfd3b1/spode-christmas-tree-snowman-bell-ornament-5462?aspect=fit&width=640&height=640",
+  "source_url": "https://www.chairish.com/product/5198123/spode-christmas-tree-snowman-bell-ornament",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree Snowman Bell Ornament\""
+ },
+ {
+  "name": "Christmas Tree Tree Bell Ornament",
+  "collection": "Ornaments",
+  "type": "Ornament",
+  "sku": null,
+  "image_url": "https://chairish-prod.freetls.fastly.net/image/product/master/66c35aac-1b26-4719-8f20-9bbeb0ecb8f4/spode-christmas-tree-tree-bell-ornament-2422?aspect=fit&width=640&height=640",
+  "source_url": "https://www.chairish.com/product/5198128/spode-christmas-tree-tree-bell-ornament",
+  "status": "unknown",
+  "notes": "listing title: \"Spode Christmas Tree Tree Bell Ornament\""
+ },
+ {
+  "name": "Christmas Tree Baby's First Christmas Bootie Ornament 2019",
+  "collection": "Ornaments",
+  "type": "Ornament",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/14/6acfd00d875d656320522090/l_6acfd00d7e297bfc007beed1.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-2019-Babys-First-Christmas-Bootie-Ceramic-Ornament-NIB-6acfd00d875d656320522090",
+  "status": "discontinued",
+  "notes": "listing title: \"Spode Christmas Tree 2019 Baby's First Christmas Bootie Ceramic Ornament NIB\""
+ },
+ {
+  "name": "Christmas Tree Miniature Teapot Ornament",
+  "collection": "Ornaments",
+  "type": "Ornament",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/09/6ac9551305ce570b06c7fc81/l_6ac9555f41ae66d072388b7b.jpg",
+  "source_url": "https://poshmark.com/listing/SPODE-Christmas-Tree-Teapot-Ornament-Miniature-Series-Red-Tartan-Bow-Boxed-6ac9551305ce570b06c7fc81",
+  "status": "discontinued",
+  "notes": "miniature series, red tartan bow; listing title: \"SPODE Christmas Tree Teapot Ornament Miniature Series Red Tartan Bow Boxed\""
+ },
+ {
+  "name": "Christmas Tree 1999 Annual Bell Ornament",
+  "collection": "Annual",
+  "type": "Ornament",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/06/6ac53a7edc94355e6cf94533/l_6ac53a8570333f019690b4ce.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-1999-AnnualBell-Ornament-Collectible-Vintage-6ac53a7edc94355e6cf94533",
+  "status": "discontinued",
+  "notes": "listing title: \"Spode Christmas Tree 1999 Annual Bell Ornament Collectible Vintage\""
+ },
+ {
+  "name": "Christmas Tree 2004 Annual Collector Plate",
+  "collection": "Annual",
+  "type": "Accent Plate",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/17/6ad39a4f8091ef952367832a/l_6ad39a53ad242adb74c11b19.jpg",
+  "source_url": "https://poshmark.com/listing/2004-Spode-Christmas-Tree-Annual-Collector-Plate-6ad39a4f8091ef952367832a",
+  "status": "discontinued",
+  "notes": "listing title: \"2004 Spode Christmas Tree Annual Collector Plate\""
+ },
+ {
+  "name": "Christmas Tree 2005 Annual Collector Plate",
+  "collection": "Annual",
+  "type": "Accent Plate",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/21/6ad9739024cc87ba18ce5d96/l_6ad973e3b55223d678420444.jpg",
+  "source_url": "https://poshmark.com/listing/2005-Spode-Christmas-Tree-Annual-Collector-Plate-Limited-Edition-Vintage-8-6ad9739024cc87ba18ce5d96",
+  "status": "discontinued",
+  "notes": "8\"; listing title: \"2005 Spode Christmas Tree Annual Collector Plate Limited Edition Vintage 8\"\""
+ },
+ {
+  "name": "Christmas Tree 2007 Annual Bread & Butter Plate",
+  "collection": "Annual",
+  "type": "Bread & Butter Plate",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/07/25/6a65053eb722f5f327e2314b/l_6a650622c71ba114546a1d0c.jpeg",
+  "source_url": "https://poshmark.com/listing/Pair-of-Spode-Christmas-Tree-2007-Annual-Collection-65-Bread-Butter-Plates-6a65053eb722f5f327e2314b",
+  "status": "discontinued",
+  "notes": "6.5\"; listing title: \"Pair of Spode Christmas Tree 2007 Annual Collection 6.5\" Bread & Butter Plates\""
+ },
+ {
+  "name": "Christmas Tree 2007 Annual Serving Bowl",
+  "collection": "Annual",
+  "type": "Serving Bowl",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/02/6abfd30d571a7e858f5e5af6/l_6abfd346972a747365c92d64.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-2007-Annual-Collection-Holiday-Serving-Bowl-6abfd30d571a7e858f5e5af6",
+  "status": "discontinued",
+  "notes": "listing title: \"Spode Christmas Tree 2007 Annual Collection Holiday Serving Bowl\""
+ },
+ {
+  "name": "Christmas Tree 2008 70th Anniversary Annual Collector Plate",
+  "collection": "Annual",
+  "type": "Accent Plate",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/28/6ae1da9e4765b09244e944a4/l_6ae1daa1adedd138d0308563.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-2008-70th-Anniversary-Annual-Border-Collector-Plate-8-Inch-6ae1da9e4765b09244e944a4",
+  "status": "discontinued",
+  "notes": "8\"; listing title: \"Spode Christmas Tree 2008 70th Anniversary Annual Border Collector Plate 8 Inch\""
+ },
+ {
+  "name": "Christmas Tree 2009 Annual Collector Plate",
+  "collection": "Annual",
+  "type": "Accent Plate",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/21/6ad976d81b53fe7467509101/l_6ad976f8ab650b8d2f481525.jpg",
+  "source_url": "https://poshmark.com/listing/2009-Spode-Christmas-Tree-Annual-Collector-Plate-Limited-Edition-Vintage-7-78-6ad976d81b53fe7467509101",
+  "status": "discontinued",
+  "notes": "7 7/8\"; listing title: \"2009 Spode Christmas Tree Annual Collector Plate Limited Edition Vintage 7 7/8”\""
+ },
+ {
+  "name": "Christmas Tree 2012 Annual Serving Bowl",
+  "collection": "Annual",
+  "type": "Serving Bowl",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/03/6aea355d7fd46ab433263f48/l_6aea355dab650b4ba739a44a.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-2012-Christmas-Tree-10-Annual-Serving-Bowl-Ceramic-Holiday-Decor-6aea355d7fd46ab433263f48",
+  "status": "discontinued",
+  "notes": "10\"; listing title: \"Spode 2012 Christmas Tree 10” Annual Serving Bowl Ceramic Holiday Decor\""
+ },
+ {
+  "name": "Christmas Tree 2013 Annual Pierced Nut Bowl",
+  "collection": "Annual",
+  "type": "Bowl",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/19/6ad64bff106eeb9eace8e6ca/l_6ad64c0056502bac46d8b0e9.jpeg",
+  "source_url": "https://poshmark.com/listing/New-Spode-2013-Christmas-Tree-Pierced-Nut-Bowl-7-Holiday-Serving-Bowl-w-Box-6ad64bff106eeb9eace8e6ca",
+  "status": "discontinued",
+  "notes": "7\"; listing title: \"New! Spode 2013 Christmas Tree Pierced Nut Bowl 7” Holiday Serving Bowl w/ Box\""
+ },
+ {
+  "name": "Christmas Tree 2016 Annual Dessert Tray",
+  "collection": "Annual",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/01/6ae7392324cc87a8cbddabe0/l_6ae73a149c93e04b9fea2597.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-2016-Annual-Collection-Dessert-Tray-Platter-12-6ae7392324cc87a8cbddabe0",
+  "status": "discontinued",
+  "notes": "12\"; listing title: \"Spode Christmas Tree 2016 Annual Collection Dessert Tray Platter - 12”\""
+ },
+ {
+  "name": "Christmas Tree 2017 Annual Collector Plate",
+  "collection": "Annual",
+  "type": "Accent Plate",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/23/6adbb751441b196c58a4b245/l_6adbb76e05ce57ced5d0ca44.jpg",
+  "source_url": "https://poshmark.com/listing/2017-Spode-Christmas-Tree-Annual-Collector-Plate-8-in-Original-Box-6adbb751441b196c58a4b245",
+  "status": "discontinued",
+  "notes": "8\"; listing title: \"2017 Spode Christmas Tree Annual Collector Plate 8” in Original Box\""
+ },
+ {
+  "name": "Christmas Tree 2019 Annual Mug",
+  "collection": "Annual",
+  "type": "Mug",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/11/02/6ae91220765ce5e6d8788620/l_6ae91220765ce5e6d8788621.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-2019-Annual-Collection-Coffee-Cup-Mug-Replacement-6ae91220765ce5e6d8788620",
+  "status": "discontinued",
+  "notes": "listing title: \"Spode Christmas Tree 2019 Annual Collection Coffee Cup‎ Mug Replacement\""
+ },
+ {
+  "name": "Christmas Tree 2021 Annual Collector Plate",
+  "collection": "Annual",
+  "type": "Accent Plate",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/23/6adbfdbfa1bf20ba6a4d9b57/l_6adbfdeaa1bf2074c74d9d63.jpg",
+  "source_url": "https://poshmark.com/listing/2021-Spode-Christmas-Tree-Annual-Collector-Plate-8-in-Original-Box-6adbfdbfa1bf20ba6a4d9b57",
+  "status": "discontinued",
+  "notes": "8\"; listing title: \"2021 Spode Christmas Tree Annual Collector Plate 8” in Original Box\""
+ },
+ {
+  "name": "Christmas Tree Joy to the World Annual Collector Plate",
+  "collection": "Annual",
+  "type": "Accent Plate",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/19/6ad67b529b24d06447b24a8c/l_6ad67b5205ce574f843fbe1e.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Joy-To-The-World-S3324A2-Holiday-Annual-Collector-Plate-7-6ad67b529b24d06447b24a8c",
+  "status": "discontinued",
+  "notes": "7\"; year unknown; listing title: \"Spode Christmas Tree Joy To The World S3324A2 Holiday Annual Collector Plate 7\"\""
+ },
+ {
+  "name": "Christmas Tree Santas Around the World Plate",
+  "collection": "Annual",
+  "type": "Accent Plate",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/15/6ad14daf13a6479f3036f793/l_6ad14daf13a6479f3036f794.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Santas-Around-The-World-Plate-775Christmas-Tree-Green-Trim-England-VTG-6ad14daf13a6479f3036f793",
+  "status": "discontinued",
+  "notes": "7.75\"; year unknown; listing title: \"Spode Santas Around The World Plate 7.75”Christmas Tree Green Trim England VTG\""
+ },
+ {
+  "name": "Christmas Tree Annual Drum Candy Box",
+  "collection": "Annual",
+  "type": "Canister",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/10/28/6ae25a8d34fc5f69eb8a26bb/l_6ae25a9631f0f67190517b15.jpeg",
+  "source_url": "https://poshmark.com/listing/Vintage-Spode-Tree-Annual-Drum-Candy-Box-Hand-Painted-Christmas-Jar-Canister-6ae25a8d34fc5f69eb8a26bb",
+  "status": "discontinued",
+  "notes": "listing title: \"Vintage Spode Tree Annual Drum Candy Box Hand Painted Christmas Jar Canister\""
+ },
+ {
+  "name": "Christmas Tree Red Trim Square Bonbon Dish",
+  "collection": "Red Trim",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2021/06/13/60c67f14633cfcd3dc85dcfc/l_60c67f2fefd0e4352ffad1a7.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Red-Trim-Square-Bonbon-Dish-60c67f14633cfcd3dc85dcfc",
+  "status": "discontinued",
+  "notes": "vintage red-band variant of the S3324 pattern (seller listings; not confirmed by Spode reference); listing title: \"Spode Christmas Tree (Red Trim) Square Bonbon Dish\""
+ },
+ {
+  "name": "Christmas Tree Red Trim Tree Shaped Dish",
+  "collection": "Red Trim",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/06/04/6a21a3a36d655d3280a54ab9/l_6a21a3a44a072bc4add82d27.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Red-Trim-Small-Tree-Shaped-Dish-S3324V-6a21a3a36d655d3280a54ab9",
+  "status": "discontinued",
+  "notes": "vintage red-band variant of the S3324 pattern (seller listings; not confirmed by Spode reference); backstamp S3324-V; 8.25 x 7.5\"; listing title: \"Spode Christmas Tree Red Trim Small Tree Shaped Dish S3324-V\""
+ },
+ {
+  "name": "Christmas Tree Red Trim Star Shaped Candy Dish",
+  "collection": "Red Trim",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/09/20/6ab017fef93b2aa580b29a54/l_6ab017ff24cc8794c78ce855.jpeg",
+  "source_url": "https://poshmark.com/listing/Vintage-Spode-Christmas-Tree-Red-Band-Star-Shaped-Candy-Nut-Dish-6-6ab017fef93b2aa580b29a54",
+  "status": "discontinued",
+  "notes": "vintage red-band variant of the S3324 pattern (seller listings; not confirmed by Spode reference); 6\"; listing title: \"Vintage Spode Christmas Tree Red Band Star Shaped Candy Nut Dish 6\"\""
+ },
+ {
+  "name": "Christmas Tree Red Trim Fluted Dish",
+  "collection": "Red Trim",
+  "type": "Serveware",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2026/07/02/6a4700cda0dc2b2fe1ac021a/l_6a4700cda0dc2b2fe1ac021b.jpg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-red-band-fluted-dish-6a4700cda0dc2b2fe1ac021a",
+  "status": "discontinued",
+  "notes": "vintage red-band variant of the S3324 pattern (seller listings; not confirmed by Spode reference); listing title: \"Spode Christmas Tree red band fluted dish\""
+ },
+ {
+  "name": "Christmas Tree Red Trim Handle Mug",
+  "collection": "Red Trim",
+  "type": "Mug",
+  "sku": null,
+  "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2024/10/25/671bd43a74cb470eb9597141/l_671bd921d3309f01b7297b21.jpeg",
+  "source_url": "https://poshmark.com/listing/Spode-Christmas-Tree-Red-Trim-Handle-Mug-14-oz-Holiday-Original-Box-45-671bd43a74cb470eb9597141",
+  "status": "unknown",
+  "notes": "vintage red-band variant of the S3324 pattern (seller listings; not confirmed by Spode reference); 14 oz; boxed (may be a newer item); listing title: \"Spode Christmas Tree Red Trim Handle Mug 14 oz Holiday Original Box 4.5\"\""
+ }
+]

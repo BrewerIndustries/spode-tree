@@ -115,6 +115,7 @@ input, select, textarea { font-family: inherit; font-size: 16px; color: inherit;
 }
 .check:active { transform: scale(0.92); }
 .check.on { background: var(--good); border-color: var(--good); color: #fff; }
+.check.via { border-color: var(--good); color: var(--good); background: rgba(255,255,255,0.92); }
 
 .backdrop {
   position: fixed; inset: 0; background: rgba(15, 14, 10, 0.55);
